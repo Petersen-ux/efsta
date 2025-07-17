@@ -1,21 +1,3 @@
-Hallo\! Absolut. Hier ist die aktualisierte Sitemap 2, die alle fehlenden URLs aus Sitemap 1 enthält, korrekt formatiert mit den entsprechenden `hreflang`-Tags für jede Sprache.
-
------
-
-### Vorgehensweise
-
-Um deine Anfrage zu bearbeiten, habe ich die folgenden Schritte durchgeführt:
-
-1.  **Analyse & Extraktion:** Zuerst habe ich alle URLs aus Sitemap 1 und Sitemap 2 extrahiert und in separaten Listen gespeichert.
-2.  **Abgleich:** Ich habe die beiden Listen verglichen, um die URLs zu identifizieren, die **in Sitemap 1 vorhanden, aber in Sitemap 2 nicht enthalten** waren.
-3.  **Generierung der neuen Einträge:** Für jede fehlende URL habe ich einen neuen `<url>`-Block erstellt.
-4.  **Anwendung der `hreflang`-Logik:** Basierend auf der Struktur von Sitemap 2 habe ich für jede neue URL die entsprechenden alternativen Sprachversionen generiert:
-      * **`de` (Deutsch) & `x-default`:** Die Original-URL (`https://www.efsta.eu/...`) wurde verwendet.
-      * **`en`, `es`, `it`, `fr`, `hr`:** Die Subdomain wurde entsprechend der Sprache geändert (z.B. `https://en.efsta.eu/...`, `https://es.efsta.eu/...` usw.).
-5.  **Integration:** Die neu erstellten `<url>`-Blöcke wurden am Ende von Sitemap 2 vor dem schließenden `</urlset>`-Tag eingefügt.
-
------
-
 ### ✅ Aktualisierte Sitemap 2
 
 Hier ist das vollständige, aktualisierte XML für Sitemap 2.
