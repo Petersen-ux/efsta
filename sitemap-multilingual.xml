@@ -1,3 +1,8 @@
+Absolut\! Hier ist die vollständige und korrigierte Sitemap.
+
+Sie können diesen Code direkt kopieren und als Ihre neue Sitemap-Datei speichern. Er ist nun syntaktisch korrekt und sollte von der Google Search Console ohne Fehler akzeptiert werden.
+
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
@@ -316,7 +321,7 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/news"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/unternehmen/news"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/news"/>
-    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/vijesti"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/tvrtka/vijesti"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/news"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/unternehmen/news"/>
   </url>
@@ -710,5 +715,5 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/boletin/future-of-retail"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/future-of-retail"/>
   </url>
-  <url>
-    <loc>
+</urlset>
+```
