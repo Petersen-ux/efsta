@@ -1,974 +1,973 @@
-<?xml version='1.0' encoding='utf-8'?>
-<urlset xmlns:html="http://www.w3.org/1999/xhtml" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-    <url>
-        <loc>https://www.efsta.eu</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/apple-wallet</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/apple-wallet"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/apple-wallet"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/apple-wallet"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/apple-wallet"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/apple-wallet"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/apple-wallet"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/apple-wallet"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/datenschutz</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/datenschutz"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/datenschutz"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/datenschutz"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/datenschutz"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/datenschutz"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/datenschutz"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/datenschutz"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/efsta-wallet</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/efsta-wallet"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/efsta-wallet"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/efsta-wallet"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/efsta-wallet"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/efsta-wallet"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/efsta-wallet"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/efsta-wallet"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/fiskalisierung</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiskalisierung"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiskalisierung"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiskalisierung"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalisierung"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/impressum</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/impressum"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/impressum"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/impressum"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/impressum"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/impressum"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/impressum"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/impressum"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/karriere/bewerbungsformular</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/karriere/bewerbungsformular"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/karriere/bewerbungsformular"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/karriere/bewerbungsformular"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/karriere/bewerbungsformular"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/karriere/bewerbungsformular"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/karriere/bewerbungsformular"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/karriere/bewerbungsformular"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/karriere/deine-initiativbewerbung</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/karriere/deine-initiativbewerbung"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/karriere/deine-initiativbewerbung"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/karriere/deine-initiativbewerbung"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/karriere/deine-initiativbewerbung"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/karriere/deine-initiativbewerbung"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/karriere/deine-initiativbewerbung"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/karriere/deine-initiativbewerbung"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/karriere/karriere-bei-efsta</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/karriere/karriere-bei-efsta"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/karriere/karriere-bei-efsta"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/karriere/karriere-bei-efsta"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/karriere/karriere-bei-efsta"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/karriere/karriere-bei-efsta"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/karriere/karriere-bei-efsta"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/karriere/karriere-bei-efsta"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/karriere/zoho-bewerbung</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/karriere/zoho-bewerbung"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/karriere/zoho-bewerbung"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/karriere/zoho-bewerbung"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/karriere/zoho-bewerbung"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/karriere/zoho-bewerbung"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/karriere/zoho-bewerbung"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/karriere/zoho-bewerbung"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/kontakt</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/kontakt"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/kontakt"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/kontakt"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/kontakt"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/kontakt"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/kontakt"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/kontakt"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/laenderloesungen/deutschland-kassensichv-tse</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/laenderloesungen/deutschland-kassensichv-tse"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/laenderloesungen/deutschland-kassensichv-tse"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/laenderloesungen/deutschland-kassensichv-tse"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/laenderloesungen/deutschland-kassensichv-tse"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/laenderloesungen/deutschland-kassensichv-tse"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/laenderloesungen/deutschland-kassensichv-tse"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/laenderloesungen/deutschland-kassensichv-tse"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/laenderloesungen/oesterreich-rksv-see</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/laenderloesungen/oesterreich-rksv-see"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/laenderloesungen/oesterreich-rksv-see"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/laenderloesungen/oesterreich-rksv-see"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/laenderloesungen/oesterreich-rksv-see"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/laenderloesungen/oesterreich-rksv-see"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/laenderloesungen/oesterreich-rksv-see"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/laenderloesungen/oesterreich-rksv-see"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/laenderloesungen/schweden</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/laenderloesungen/schweden"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/laenderloesungen/schweden"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/laenderloesungen/schweden"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/laenderloesungen/schweden"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/laenderloesungen/schweden"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/laenderloesungen/schweden"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/laenderloesungen/schweden"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/laenderloesungen/norwegen-cash-register-system-act</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/laenderloesungen/norwegen-cash-register-system-act"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/laenderloesungen/norwegen-cash-register-system-act"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/laenderloesungen/norwegen-cash-register-system-act"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/laenderloesungen/norwegen-cash-register-system-act"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/laenderloesungen/norwegen-cash-register-system-act"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/laenderloesungen/norwegen-cash-register-system-act"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/laenderloesungen/norwegen-cash-register-system-act"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/laenderloesungen/danemark-mehrwertsteuerverordnung-verkaufsregistrierungssystem</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/laenderloesungen/danemark-mehrwertsteuerverordnung-verkaufsregistrierungssystem"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/laenderloesungen/danemark-mehrwertsteuerverordnung-verkaufsregistrierungssystem"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/laenderloesungen/danemark-mehrwertsteuerverordnung-verkaufsregistrierungssystem"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/laenderloesungen/danemark-mehrwertsteuerverordnung-verkaufsregistrierungssystem"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/laenderloesungen/danemark-mehrwertsteuerverordnung-verkaufsregistrierungssystem"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/laenderloesungen/danemark-mehrwertsteuerverordnung-verkaufsregistrierungssystem"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/laenderloesungen/danemark-mehrwertsteuerverordnung-verkaufsregistrierungssystem"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/laenderloesungen/italien-compliance-fur-registratore-telematico</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/laenderloesungen/italien-compliance-fur-registratore-telematico"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/laenderloesungen/italien-compliance-fur-registratore-telematico"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/laenderloesungen/italien-compliance-fur-registratore-telematico"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/laenderloesungen/italien-compliance-fur-registratore-telematico"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/laenderloesungen/italien-compliance-fur-registratore-telematico"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/laenderloesungen/italien-compliance-fur-registratore-telematico"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/laenderloesungen/italien-compliance-fur-registratore-telematico"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/laenderloesungen/frankreich</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/laenderloesungen/frankreich"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/laenderloesungen/frankreich"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/laenderloesungen/frankreich"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/laenderloesungen/frankreich"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/laenderloesungen/frankreich"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/laenderloesungen/frankreich"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/laenderloesungen/frankreich"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/laenderloesungen/spanien-ticketbai-veri-factu</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/laenderloesungen/spanien-ticketbai-veri-factu"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/laenderloesungen/spanien-ticketbai-veri-factu"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/laenderloesungen/spanien-ticketbai-veri-factu"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/laenderloesungen/spanien-ticketbai-veri-factu"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/laenderloesungen/spanien-ticketbai-veri-factu"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/laenderloesungen/spanien-ticketbai-veri-factu"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/laenderloesungen/spanien-ticketbai-veri-factu"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/produkte/simple-bill</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/produkte/simple-bill"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/produkte/simple-bill"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/produkte/simple-bill"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/produkte/simple-bill"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/produkte/simple-bill"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/produkte/simple-bill"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/produkte/simple-bill"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/produkte/digitalbilldemo</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/produkte/digitalbilldemo"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/produkte/digitalbilldemo"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/produkte/digitalbilldemo"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/produkte/digitalbilldemo"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/produkte/digitalbilldemo"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/produkte/digitalbilldemo"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/produkte/digitalbilldemo"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/produkte/datensicherheit-digitaler-beleg</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/produkte/datensicherheit-digitaler-beleg"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/produkte/datensicherheit-digitaler-beleg"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/produkte/datensicherheit-digitaler-beleg"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/produkte/datensicherheit-digitaler-beleg"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/produkte/datensicherheit-digitaler-beleg"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/produkte/datensicherheit-digitaler-beleg"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/produkte/datensicherheit-digitaler-beleg"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/produkte/e-invoicing</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/produkte/e-invoicing"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/produkte/e-invoicing"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/produkte/e-invoicing"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/produkte/e-invoicing"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/produkte/e-invoicing"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/produkte/e-invoicing"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/produkte/e-invoicing"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/produkte/e-invoicing-italien-sdi-system</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/produkte/e-invoicing-italien-sdi-system"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/produkte/e-invoicing-italien-sdi-system"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/produkte/e-invoicing-italien-sdi-system"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/produkte/e-invoicing-italien-sdi-system"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/produkte/e-invoicing-italien-sdi-system"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/produkte/e-invoicing-italien-sdi-system"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/produkte/e-invoicing-italien-sdi-system"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/produkte/e-invoicing-deutschland-xrechnung</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/produkte/e-invoicing-deutschland-xrechnung"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/produkte/e-invoicing-deutschland-xrechnung"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/produkte/e-invoicing-deutschland-xrechnung"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/produkte/e-invoicing-deutschland-xrechnung"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/produkte/e-invoicing-deutschland-xrechnung"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/produkte/e-invoicing-deutschland-xrechnung"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/produkte/e-invoicing-deutschland-xrechnung"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/produkte/smart-bill</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/produkte/smart-bill"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/produkte/smart-bill"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/produkte/smart-bill"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/produkte/smart-bill"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/produkte/smart-bill"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/produkte/smart-bill"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/produkte/smart-bill"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/produkte/digitaler-beleg</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/produkte/digitaler-beleg"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/produkte/digitaler-beleg"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/produkte/digitaler-beleg"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/produkte/digitaler-beleg"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/produkte/digitaler-beleg"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/produkte/digitaler-beleg"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/produkte/digitaler-beleg"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/kundenservice-supportformular</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/kundenservice-supportformular"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/kundenservice-supportformular"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/kundenservice-supportformular"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/kundenservice-supportformular"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/kundenservice-supportformular"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/kundenservice-supportformular"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/kundenservice-supportformular"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/ueber-uns-ihr-partner-fur-fiskalisierung</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/ueber-uns-ihr-partner-fur-fiskalisierung"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/ueber-uns-ihr-partner-fur-fiskalisierung"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/ueber-uns-ihr-partner-fur-fiskalisierung"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/ueber-uns-ihr-partner-fur-fiskalisierung"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/ueber-uns-ihr-partner-fur-fiskalisierung"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/ueber-uns-ihr-partner-fur-fiskalisierung"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/ueber-uns-ihr-partner-fur-fiskalisierung"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/unternehmen/das-team</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/das-team"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/unternehmen/das-team"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/unternehmen/das-team"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/unternehmen/das-team"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/unternehmen/das-team"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/unternehmen/das-team"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/unternehmen/das-team"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/unternehmen/grundsatze</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/grundsatze"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/unternehmen/grundsatze"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/unternehmen/grundsatze"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/unternehmen/grundsatze"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/unternehmen/grundsatze"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/unternehmen/grundsatze"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/unternehmen/grundsatze"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/unternehmen/news</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/news"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/unternehmen/news"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/unternehmen/news"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/unternehmen/news"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/unternehmen/news"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/unternehmen/news"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/unternehmen/news"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/unternehmen/unser-partner-netzwerk</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/unser-partner-netzwerk"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/unternehmen/unser-partner-netzwerk"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/unternehmen/unser-partner-netzwerk"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/unternehmen/unser-partner-netzwerk"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/unternehmen/unser-partner-netzwerk"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/unternehmen/unser-partner-netzwerk"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/unternehmen/unser-partner-netzwerk"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/unternehmen/referenzen</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/referenzen"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/unternehmen/referenzen"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/unternehmen/referenzen"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/unternehmen/referenzen"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/unternehmen/referenzen"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/unternehmen/referenzen"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/unternehmen/referenzen"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/unternehmen/zertifizierungen</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/zertifizierungen"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/unternehmen/zertifizierungen"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/unternehmen/zertifizierungen"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/unternehmen/zertifizierungen"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/unternehmen/zertifizierungen"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/unternehmen/zertifizierungen"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/unternehmen/zertifizierungen"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/eurocis-dusseldorf-2025</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/eurocis-dusseldorf-2025"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/eurocis-dusseldorf-2025"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/eurocis-dusseldorf-2025"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/eurocis-dusseldorf-2025"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/eurocis-dusseldorf-2025"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/eurocis-dusseldorf-2025"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/eurocis-dusseldorf-2025"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/landerubersicht</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/landerubersicht"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/landerubersicht"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/landerubersicht"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/landerubersicht"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/landerubersicht"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/landerubersicht"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/landerubersicht"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/headquartersteyr-new-office</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/headquartersteyr-new-office"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/headquartersteyr-new-office"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/headquartersteyr-new-office"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/headquartersteyr-new-office"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/headquartersteyr-new-office"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/headquartersteyr-new-office"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/headquartersteyr-new-office"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/newsletter-anmeldung</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter-anmeldung"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter-anmeldung"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/newsletter-anmeldung"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter-anmeldung"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter-anmeldung"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/newsletter-anmeldung"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter-anmeldung"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/losungen/rksv-uberblick</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/rksv-uberblick"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/losungen/rksv-uberblick"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/losungen/rksv-uberblick"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/losungen/rksv-uberblick"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/losungen/rksv-uberblick"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/losungen/rksv-uberblick"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/rksv-uberblick"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/losungen/meldepflicht-de-kassensysteme</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/meldepflicht-de-kassensysteme"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/losungen/meldepflicht-de-kassensysteme"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/losungen/meldepflicht-de-kassensysteme"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/losungen/meldepflicht-de-kassensysteme"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/losungen/meldepflicht-de-kassensysteme"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/losungen/meldepflicht-de-kassensysteme"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/meldepflicht-de-kassensysteme"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/losungen/italy-cloud-solution-losung-fur-die-fiskalisierung</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/italy-cloud-solution-losung-fur-die-fiskalisierung"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/losungen/italy-cloud-solution-losung-fur-die-fiskalisierung"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/losungen/italy-cloud-solution-losung-fur-die-fiskalisierung"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/losungen/italy-cloud-solution-losung-fur-die-fiskalisierung"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/losungen/italy-cloud-solution-losung-fur-die-fiskalisierung"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/losungen/italy-cloud-solution-losung-fur-die-fiskalisierung"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/italy-cloud-solution-losung-fur-die-fiskalisierung"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/losungen/tse-deutschland</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/tse-deutschland"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/losungen/tse-deutschland"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/losungen/tse-deutschland"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/losungen/tse-deutschland"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/losungen/tse-deutschland"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/losungen/tse-deutschland"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/tse-deutschland"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/losungen/ticketbai</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/ticketbai"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/losungen/ticketbai"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/losungen/ticketbai"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/losungen/ticketbai"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/losungen/ticketbai"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/losungen/ticketbai"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/ticketbai"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/losungen/kassensichv</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/kassensichv"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/losungen/kassensichv"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/losungen/kassensichv"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/losungen/kassensichv"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/losungen/kassensichv"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/losungen/kassensichv"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/kassensichv"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/losungen/isca-konformitat-pos-software</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/isca-konformitat-pos-software"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/losungen/isca-konformitat-pos-software"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/losungen/isca-konformitat-pos-software"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/losungen/isca-konformitat-pos-software"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/losungen/isca-konformitat-pos-software"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/losungen/isca-konformitat-pos-software"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/isca-konformitat-pos-software"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/losungen/verifactu</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/verifactu"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/losungen/verifactu"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/losungen/verifactu"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/losungen/verifactu"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/losungen/verifactu"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/losungen/verifactu"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/verifactu"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/losungen/faq-s-meldepflicht-webinar</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/faq-s-meldepflicht-webinar"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/losungen/faq-s-meldepflicht-webinar"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/losungen/faq-s-meldepflicht-webinar"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/losungen/faq-s-meldepflicht-webinar"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/losungen/faq-s-meldepflicht-webinar"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/losungen/faq-s-meldepflicht-webinar"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/faq-s-meldepflicht-webinar"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/losungen/digitaler-kassenbeleg</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/digitaler-kassenbeleg"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/losungen/digitaler-kassenbeleg"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/losungen/digitaler-kassenbeleg"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/losungen/digitaler-kassenbeleg"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/losungen/digitaler-kassenbeleg"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/losungen/digitaler-kassenbeleg"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/digitaler-kassenbeleg"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/losungen/zertifizierung-frankreich</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/zertifizierung-frankreich"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/losungen/zertifizierung-frankreich"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/losungen/zertifizierung-frankreich"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/losungen/zertifizierung-frankreich"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/losungen/zertifizierung-frankreich"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/losungen/zertifizierung-frankreich"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/zertifizierung-frankreich"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/wissensdatenbank/digitale-signatur-und-sicherheit</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/wissensdatenbank/digitale-signatur-und-sicherheit"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/wissensdatenbank/digitale-signatur-und-sicherheit"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/wissensdatenbank/digitale-signatur-und-sicherheit"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/wissensdatenbank/digitale-signatur-und-sicherheit"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/wissensdatenbank/digitale-signatur-und-sicherheit"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/wissensdatenbank/digitale-signatur-und-sicherheit"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/wissensdatenbank/digitale-signatur-und-sicherheit"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/wissensdatenbank/datenerfassungs--protokoll-dep-transaktionen-und-aufzeichnung</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/wissensdatenbank/datenerfassungs--protokoll-dep-transaktionen-und-aufzeichnung"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/wissensdatenbank/datenerfassungs--protokoll-dep-transaktionen-und-aufzeichnung"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/wissensdatenbank/datenerfassungs--protokoll-dep-transaktionen-und-aufzeichnung"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/wissensdatenbank/datenerfassungs--protokoll-dep-transaktionen-und-aufzeichnung"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/wissensdatenbank/datenerfassungs--protokoll-dep-transaktionen-und-aufzeichnung"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/wissensdatenbank/datenerfassungs--protokoll-dep-transaktionen-und-aufzeichnung"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/wissensdatenbank/datenerfassungs--protokoll-dep-transaktionen-und-aufzeichnung"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/wissensdatenbank/sicherheitszertifikate-in-osterreich-fur-registrierkassen</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/wissensdatenbank/sicherheitszertifikate-in-osterreich-fur-registrierkassen"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/wissensdatenbank/sicherheitszertifikate-in-osterreich-fur-registrierkassen"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/wissensdatenbank/sicherheitszertifikate-in-osterreich-fur-registrierkassen"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/wissensdatenbank/sicherheitszertifikate-in-osterreich-fur-registrierkassen"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/wissensdatenbank/sicherheitszertifikate-in-osterreich-fur-registrierkassen"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/wissensdatenbank/sicherheitszertifikate-in-osterreich-fur-registrierkassen"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/wissensdatenbank/sicherheitszertifikate-in-osterreich-fur-registrierkassen"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/wissensdatenbank/qr-code-auf-belegen</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/wissensdatenbank/qr-code-auf-belegen"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/wissensdatenbank/qr-code-auf-belegen"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/wissensdatenbank/qr-code-auf-belegen"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/wissensdatenbank/qr-code-auf-belegen"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/wissensdatenbank/qr-code-auf-belegen"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/wissensdatenbank/qr-code-auf-belegen"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/wissensdatenbank/qr-code-auf-belegen"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/google-wallet-digitaler-beleg-von-efsta</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/google-wallet-digitaler-beleg-von-efsta"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/google-wallet-digitaler-beleg-von-efsta"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/google-wallet-digitaler-beleg-von-efsta"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/google-wallet-digitaler-beleg-von-efsta"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/google-wallet-digitaler-beleg-von-efsta"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/google-wallet-digitaler-beleg-von-efsta"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/google-wallet-digitaler-beleg-von-efsta"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/job/it-consultant-m-w-d</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/job/it-consultant-m-w-d"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/job/it-consultant-m-w-d"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/job/it-consultant-m-w-d"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/job/it-consultant-m-w-d"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/job/it-consultant-m-w-d"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/job/it-consultant-m-w-d"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/job/it-consultant-m-w-d"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/job/junior-sales-assistant-m-w-d</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/job/junior-sales-assistant-m-w-d"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/job/junior-sales-assistant-m-w-d"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/job/junior-sales-assistant-m-w-d"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/job/junior-sales-assistant-m-w-d"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/job/junior-sales-assistant-m-w-d"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/job/junior-sales-assistant-m-w-d"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/job/junior-sales-assistant-m-w-d"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/newsletter/acos-id-2-1-zertifizierung-a-trust-nicht-verlaengert</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/acos-id-2-1-zertifizierung-a-trust-nicht-verlaengert"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/acos-id-2-1-zertifizierung-a-trust-nicht-verlaengert"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/newsletter/acos-id-2-1-zertifizierung-a-trust-nicht-verlaengert"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/acos-id-2-1-zertifizierung-a-trust-nicht-verlaengert"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/acos-id-2-1-zertifizierung-a-trust-nicht-verlaengert"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/newsletter/acos-id-2-1-zertifizierung-a-trust-nicht-verlaengert"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/acos-id-2-1-zertifizierung-a-trust-nicht-verlaengert"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/newsletter/belgien-update</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/belgien-update"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/belgien-update"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/newsletter/belgien-update"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/belgien-update"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/belgien-update"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/newsletter/belgien-update"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/belgien-update"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/newsletter/chatbot-olaf</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/chatbot-olaf"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/chatbot-olaf"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/newsletter/chatbot-olaf"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/chatbot-olaf"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/chatbot-olaf"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/newsletter/chatbot-olaf"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/chatbot-olaf"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/newsletter/cloud-fiskalisierung-in-italien-alles-was-sie-jetzt-wissen-mussen</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/cloud-fiskalisierung-in-italien-alles-was-sie-jetzt-wissen-mussen"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/cloud-fiskalisierung-in-italien-alles-was-sie-jetzt-wissen-mussen"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/newsletter/cloud-fiskalisierung-in-italien-alles-was-sie-jetzt-wissen-mussen"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/cloud-fiskalisierung-in-italien-alles-was-sie-jetzt-wissen-mussen"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/cloud-fiskalisierung-in-italien-alles-was-sie-jetzt-wissen-mussen"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/newsletter/cloud-fiskalisierung-in-italien-alles-was-sie-jetzt-wissen-mussen"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/cloud-fiskalisierung-in-italien-alles-was-sie-jetzt-wissen-mussen"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/newsletter/croatia-fiscalization-law-2-0</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/croatia-fiscalization-law-2-0"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/croatia-fiscalization-law-2-0"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/newsletter/croatia-fiscalization-law-2-0"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/croatia-fiscalization-law-2-0"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/croatia-fiscalization-law-2-0"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/newsletter/croatia-fiscalization-law-2-0"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/croatia-fiscalization-law-2-0"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/newsletter/datev-anbindung</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/datev-anbindung"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/datev-anbindung"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/newsletter/datev-anbindung"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/datev-anbindung"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/datev-anbindung"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/newsletter/datev-anbindung"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/datev-anbindung"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/newsletter/de-meldepflicht-fur-2025</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/de-meldepflicht-fur-2025"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/de-meldepflicht-fur-2025"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/newsletter/de-meldepflicht-fur-2025"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/de-meldepflicht-fur-2025"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/de-meldepflicht-fur-2025"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/newsletter/de-meldepflicht-fur-2025"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/de-meldepflicht-fur-2025"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/newsletter/digitale-umsatzerfassung-in-danemark</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/digitale-umsatzerfassung-in-danemark"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/digitale-umsatzerfassung-in-danemark"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/newsletter/digitale-umsatzerfassung-in-danemark"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/digitale-umsatzerfassung-in-danemark"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/digitale-umsatzerfassung-in-danemark"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/newsletter/digitale-umsatzerfassung-in-danemark"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/digitale-umsatzerfassung-in-danemark"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/newsletter/efr-spain-newsletter</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/efr-spain-newsletter"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/efr-spain-newsletter"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/newsletter/efr-spain-newsletter"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/efr-spain-newsletter"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/efr-spain-newsletter"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/newsletter/efr-spain-newsletter"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/efr-spain-newsletter"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/newsletter/elektronische-b2b-rechnungsstellung</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/elektronische-b2b-rechnungsstellung"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/elektronische-b2b-rechnungsstellung"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/newsletter/elektronische-b2b-rechnungsstellung"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/elektronische-b2b-rechnungsstellung"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/elektronische-b2b-rechnungsstellung"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/newsletter/elektronische-b2b-rechnungsstellung"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/elektronische-b2b-rechnungsstellung"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/newsletter/ende-der-selbstzertifizierung-in-frankreich</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/ende-der-selbstzertifizierung-in-frankreich"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/ende-der-selbstzertifizierung-in-frankreich"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/newsletter/ende-der-selbstzertifizierung-in-frankreich"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/ende-der-selbstzertifizierung-in-frankreich"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/ende-der-selbstzertifizierung-in-frankreich"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/newsletter/ende-der-selbstzertifizierung-in-frankreich"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/ende-der-selbstzertifizierung-in-frankreich"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/newsletter/exclusive-update-apple-wallet-integration</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/exclusive-update-apple-wallet-integration"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/exclusive-update-apple-wallet-integration"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/newsletter/exclusive-update-apple-wallet-integration"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/exclusive-update-apple-wallet-integration"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/exclusive-update-apple-wallet-integration"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/newsletter/exclusive-update-apple-wallet-integration"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/exclusive-update-apple-wallet-integration"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/newsletter/frankreich-ende-der-selbstzertifizierung-und-neue-pflicht-zur-pos-zertifizierung-ab-2025</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/frankreich-ende-der-selbstzertifizierung-und-neue-pflicht-zur-pos-zertifizierung-ab-2025"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/frankreich-ende-der-selbstzertifizierung-und-neue-pflicht-zur-pos-zertifizierung-ab-2025"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/newsletter/frankreich-ende-der-selbstzertifizierung-und-neue-pflicht-zur-pos-zertifizierung-ab-2025"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/frankreich-ende-der-selbstzertifizierung-und-neue-pflicht-zur-pos-zertifizierung-ab-2025"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/frankreich-ende-der-selbstzertifizierung-und-neue-pflicht-zur-pos-zertifizierung-ab-2025"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/newsletter/frankreich-ende-der-selbstzertifizierung-und-neue-pflicht-zur-pos-zertifizierung-ab-2025"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/frankreich-ende-der-selbstzertifizierung-und-neue-pflicht-zur-pos-zertifizierung-ab-2025"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/newsletter/future-of-retail</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/future-of-retail"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/future-of-retail"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/newsletter/future-of-retail"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/future-of-retail"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/future-of-retail"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/newsletter/future-of-retail"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/future-of-retail"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/newsletter/leitfaden-fur-den-digitalen-kassenbon</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/leitfaden-fur-den-digitalen-kassenbon"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/leitfaden-fur-den-digitalen-kassenbon"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/newsletter/leitfaden-fur-den-digitalen-kassenbon"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/leitfaden-fur-den-digitalen-kassenbon"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/leitfaden-fur-den-digitalen-kassenbon"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/newsletter/leitfaden-fur-den-digitalen-kassenbon"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/leitfaden-fur-den-digitalen-kassenbon"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/newsletter/neue-c-level-struktur-bei-efsta-mit-klarer-fuhrung-in-eine-wachstumsstarke-zukunft</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/neue-c-level-struktur-bei-efsta-mit-klarer-fuhrung-in-eine-wachstumsstarke-zukunft"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/neue-c-level-struktur-bei-efsta-mit-klarer-fuhrung-in-eine-wachstumsstarke-zukunft"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/newsletter/neue-c-level-struktur-bei-efsta-mit-klarer-fuhrung-in-eine-wachstumsstarke-zukunft"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/neue-c-level-struktur-bei-efsta-mit-klarer-fuhrung-in-eine-wachstumsstarke-zukunft"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/neue-c-level-struktur-bei-efsta-mit-klarer-fuhrung-in-eine-wachstumsstarke-zukunft"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/newsletter/neue-c-level-struktur-bei-efsta-mit-klarer-fuhrung-in-eine-wachstumsstarke-zukunft"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/neue-c-level-struktur-bei-efsta-mit-klarer-fuhrung-in-eine-wachstumsstarke-zukunft"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/newsletter/neue-efsta-dokumentationsseite</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/neue-efsta-dokumentationsseite"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/neue-efsta-dokumentationsseite"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/newsletter/neue-efsta-dokumentationsseite"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/neue-efsta-dokumentationsseite"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/neue-efsta-dokumentationsseite"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/newsletter/neue-efsta-dokumentationsseite"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/neue-efsta-dokumentationsseite"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/newsletter/newsletter-exklusive-einblicke-in-unseren-digitalen-kassenbon</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/newsletter-exklusive-einblicke-in-unseren-digitalen-kassenbon"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/newsletter-exklusive-einblicke-in-unseren-digitalen-kassenbon"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/newsletter/newsletter-exklusive-einblicke-in-unseren-digitalen-kassenbon"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/newsletter-exklusive-einblicke-in-unseren-digitalen-kassenbon"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/newsletter-exklusive-einblicke-in-unseren-digitalen-kassenbon"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/newsletter/newsletter-exklusive-einblicke-in-unseren-digitalen-kassenbon"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/newsletter-exklusive-einblicke-in-unseren-digitalen-kassenbon"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/newsletter/optimieren-sie-ihr-kassensystem-mit-efsta</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/optimieren-sie-ihr-kassensystem-mit-efsta"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/optimieren-sie-ihr-kassensystem-mit-efsta"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/newsletter/optimieren-sie-ihr-kassensystem-mit-efsta"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/optimieren-sie-ihr-kassensystem-mit-efsta"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/optimieren-sie-ihr-kassensystem-mit-efsta"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/newsletter/optimieren-sie-ihr-kassensystem-mit-efsta"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/optimieren-sie-ihr-kassensystem-mit-efsta"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/newsletter/schweden-integration</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/schweden-integration"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/schweden-integration"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/newsletter/schweden-integration"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/schweden-integration"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/schweden-integration"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/newsletter/schweden-integration"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/schweden-integration"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/newsletter/schwedische-unternehmen-keine-papierbelege</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/schwedische-unternehmen-keine-papierbelege"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/schwedische-unternehmen-keine-papierbelege"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/newsletter/schwedische-unternehmen-keine-papierbelege"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/schwedische-unternehmen-keine-papierbelege"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/schwedische-unternehmen-keine-papierbelege"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/newsletter/schwedische-unternehmen-keine-papierbelege"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/schwedische-unternehmen-keine-papierbelege"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/newsletter/sicher-ist-sicher---efsta-erreicht-iso-27001-2022-zertifizierung</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/sicher-ist-sicher---efsta-erreicht-iso-27001-2022-zertifizierung"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/sicher-ist-sicher---efsta-erreicht-iso-27001-2022-zertifizierung"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/newsletter/sicher-ist-sicher---efsta-erreicht-iso-27001-2022-zertifizierung"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/sicher-ist-sicher---efsta-erreicht-iso-27001-2022-zertifizierung"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/sicher-ist-sicher---efsta-erreicht-iso-27001-2022-zertifizierung"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/newsletter/sicher-ist-sicher---efsta-erreicht-iso-27001-2022-zertifizierung"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/sicher-ist-sicher---efsta-erreicht-iso-27001-2022-zertifizierung"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/newsletter/treiber-update-fur-die-deutsche-fiskal-tse</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/treiber-update-fur-die-deutsche-fiskal-tse"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/treiber-update-fur-die-deutsche-fiskal-tse"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/newsletter/treiber-update-fur-die-deutsche-fiskal-tse"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/treiber-update-fur-die-deutsche-fiskal-tse"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/treiber-update-fur-die-deutsche-fiskal-tse"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/newsletter/treiber-update-fur-die-deutsche-fiskal-tse"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/treiber-update-fur-die-deutsche-fiskal-tse"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/newsletter/update-zur-meldepflicht-de-2025</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/update-zur-meldepflicht-de-2025"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/update-zur-meldepflicht-de-2025"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/newsletter/update-zur-meldepflicht-de-2025"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/update-zur-meldepflicht-de-2025"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/update-zur-meldepflicht-de-2025"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/newsletter/update-zur-meldepflicht-de-2025"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/update-zur-meldepflicht-de-2025"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/fiskalisierung/belgien</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/belgien"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiskalisierung/belgien"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiskalisierung/belgien"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiskalisierung/belgien"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/belgien"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalisierung/belgien"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/belgien"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/fiskalisierung/danemark</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/danemark"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiskalisierung/danemark"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiskalisierung/danemark"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiskalisierung/danemark"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/danemark"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalisierung/danemark"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/danemark"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/fiskalisierung/deutschland</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/deutschland"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiskalisierung/deutschland"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiskalisierung/deutschland"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiskalisierung/deutschland"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/deutschland"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalisierung/deutschland"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/deutschland"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/fiskalisierung/frankreich</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/frankreich"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiskalisierung/frankreich"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiskalisierung/frankreich"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiskalisierung/frankreich"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/frankreich"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalisierung/frankreich"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/frankreich"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/fiskalisierung/italien</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/italien"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiskalisierung/italien"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiskalisierung/italien"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiskalisierung/italien"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/italien"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalisierung/italien"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/italien"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/fiskalisierung/kroatien</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/kroatien"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiskalisierung/kroatien"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiskalisierung/kroatien"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiskalisierung/kroatien"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/kroatien"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalisierung/kroatien"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/kroatien"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/fiskalisierung/norwegen</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/norwegen"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiskalisierung/norwegen"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiskalisierung/norwegen"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiskalisierung/norwegen"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/norwegen"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalisierung/norwegen"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/norwegen"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/fiskalisierung/osterreich</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/osterreich"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiskalisierung/osterreich"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiskalisierung/osterreich"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiskalisierung/osterreich"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/osterreich"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalisierung/osterreich"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/osterreich"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/fiskalisierung/polen</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/polen"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiskalisierung/polen"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiskalisierung/polen"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiskalisierung/polen"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/polen"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalisierung/polen"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/polen"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/fiskalisierung/portugal</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/portugal"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiskalisierung/portugal"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiskalisierung/portugal"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiskalisierung/portugal"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/portugal"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalisierung/portugal"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/portugal"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/fiskalisierung/schweden</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/schweden"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiskalisierung/schweden"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiskalisierung/schweden"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiskalisierung/schweden"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/schweden"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalisierung/schweden"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/schweden"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/fiskalisierung/slowakei</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/slowakei"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiskalisierung/slowakei"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiskalisierung/slowakei"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiskalisierung/slowakei"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/slowakei"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalisierung/slowakei"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/slowakei"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/fiskalisierung/slowenien</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/slowenien"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiskalisierung/slowenien"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiskalisierung/slowenien"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiskalisierung/slowenien"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/slowenien"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalisierung/slowenien"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/slowenien"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/fiskalisierung/spanien</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/spanien"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiskalisierung/spanien"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiskalisierung/spanien"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiskalisierung/spanien"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/spanien"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalisierung/spanien"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/spanien"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/fiskalisierung/tschechische-republik</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/tschechische-republik"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiskalisierung/tschechische-republik"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiskalisierung/tschechische-republik"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiskalisierung/tschechische-republik"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/tschechische-republik"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalisierung/tschechische-republik"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/tschechische-republik"/>
-    </url>
-    <url>
-        <loc>https://www.efsta.eu/fiskalisierung/ungarn</loc>
-        <html:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/ungarn"/>
-        <html:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiskalisierung/ungarn"/>
-        <html:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiskalisierung/ungarn"/>
-        <html:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiskalisierung/ungarn"/>
-        <html:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/ungarn"/>
-        <html:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalisierung/ungarn"/>
-        <html:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/ungarn"/>
-    </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.efsta.eu</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/apple-wallet</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/apple-wallet"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/apple-wallet"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/apple-wallet"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/portafoglio-apple"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/apple-novcanik"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/monedero-apple"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/apple-wallet"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/datenschutz</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/datenschutz"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/data-protection"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/datenschutz"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/protezione-dei-dati"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/zastita-podataka"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/proteccion-de-datos"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/datenschutz"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/efsta-wallet</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/efsta-wallet"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/efsta-wallet"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/efsta-wallet"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/portafoglio-efsta"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/efsta-novcanik"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/efsta-wallet"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/efsta-wallet"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/fiskalisierung</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiscalization"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiscalizzazione"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalizacija"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiscalizacion"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/impressum</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/impressum"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/imprint"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/impressum"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/impressum"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/otisak"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/impressum"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/impressum"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/karriere/bewerbungsformular</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/karriere/bewerbungsformular"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/career/application-form"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/karriere/bewerbungsformular"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/carriera/bewerbungsformular"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/karijera/obrazac-za-prijavu"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/carrera/bewerbungsformular"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/karriere/bewerbungsformular"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/karriere/deine-initiativbewerbung</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/karriere/deine-initiativbewerbung"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/career/your-speculative-application"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/karriere/deine-initiativbewerbung"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/carriera/deine-initiativbewerbung"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/karijera/vasa-nezeljena-prijava"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/carrera/deine-initiativbewerbung"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/karriere/deine-initiativbewerbung"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/karriere/karriere-bei-efsta</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/karriere/karriere-bei-efsta"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/career/career-at-efsta"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/karriere/karriere-bei-efsta"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/carriera/karriere-bei-efsta"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/karijera/karijera-u-efsti"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/carrera/carrera-profesional-en-efsta"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/karriere/karriere-bei-efsta"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/karriere/zoho-bewerbung</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/karriere/zoho-bewerbung"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/career/zoho-application"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/karriere/zoho-bewerbung"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/carriera/applicazione-zoho"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/karijera/zoho-aplikacija"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/carrera/zoho-bewerbung"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/karriere/zoho-bewerbung"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/kontakt</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/kontakt"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/contact"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/kontakt"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/kontakt"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/kontakt"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/kontakt"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/kontakt"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/laenderloesungen/deutschland-kassensichv-tse</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/laenderloesungen/deutschland-kassensichv-tse"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/country-solutions/germany-kassensichv-tse"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/solutions-pays/deutschland-kassensichv-tse"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/soluzioni-per-il-paese/deutschland-kassensichv-tse"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/rjesenja-za-zemlje/njemacka-sigurnosna-blagajna-tse"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/soluciones-nacionales/alemania-kassensichv-tse"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/laenderloesungen/deutschland-kassensichv-tse"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/laenderloesungen/oesterreich-rksv-see</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/laenderloesungen/oesterreich-rksv-see"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/country-solutions/austria-rksv-lake"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/solutions-pays/oesterreich-rksv-see"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/soluzioni-per-il-paese/oesterreich-rksv-see"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/rjesenja-za-zemlje/austrija-rksv-vidi"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/soluciones-nacionales/oesterreich-rksv-see"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/laenderloesungen/oesterreich-rksv-see"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/laenderloesungen/schweden</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/laenderloesungen/schweden"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/country-solutions/sweden"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/solutions-pays/suede"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/soluzioni-per-il-paese/svezia"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/rjesenja-za-zemlje/svedska"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/soluciones-nacionales/suecia"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/laenderloesungen/schweden"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/laenderloesungen/norwegen-cash-register-system-act</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/laenderloesungen/norwegen-cash-register-system-act"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/country-solutions/norway-cash-register-system-act"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/solutions-pays/norwegen-cash-register-system-act"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/soluzioni-per-il-paese/norwegen-cash-register-system-act"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/rjesenja-za-zemlje/zakon-o-norveskom-sustavu-blagajni"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/soluciones-nacionales/norwegen-cash-register-system-act"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/laenderloesungen/norwegen-cash-register-system-act"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/laenderloesungen/danemark-mehrwertsteuerverordnung-verkaufsregistrierungssystem</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/laenderloesungen/danemark-mehrwertsteuerverordnung-verkaufsregistrierungssystem"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/country-solutions/denmark-vat-pos"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/solutions-pays/danemark-mehrwertsteuerverordnung-verkaufsregistrierungssystem"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/soluzioni-per-il-paese/danemark-mehrwertsteuerverordnung-verkaufsregistrierungssystem"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/rjesenja-za-zemlje/danski-sustav-registracije-prodaje-prema-propisima-o-pdv-u"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/soluciones-nacionales/danemark-mehrwertsteuerverordnung-verkaufsregistrierungssystem"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/laenderloesungen/danemark-mehrwertsteuerverordnung-verkaufsregistrierungssystem"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/laenderloesungen/italien-compliance-fur-registratore-telematico</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/laenderloesungen/italien-compliance-fur-registratore-telematico"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/country-solutions/italy-compliance-for-registratore-telematico"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/solutions-pays/italien-compliance-fur-registratore-telematico"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/soluzioni-per-il-paese/italien-compliance-fur-registratore-telematico"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/rjesenja-za-zemlje/usklađenost-italije-za-registratore-telematico"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/soluciones-nacionales/italien-compliance-fur-registratore-telematico"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/laenderloesungen/italien-compliance-fur-registratore-telematico"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/laenderloesungen/frankreich</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/laenderloesungen/frankreich"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/country-solutions/france"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/solutions-pays/frankreich"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/soluzioni-per-il-paese/francia"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/rjesenja-za-zemlje/francuska"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/soluciones-nacionales/frankreich"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/laenderloesungen/frankreich"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/laenderloesungen/spanien</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/laenderloesungen/spanien"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/country-solutions/spain"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/solutions-pays/spanien"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/soluzioni-per-il-paese/spagna"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/rjesenja-za-zemlje/spanjolska"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/soluciones-nacionales/spanien"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/laenderloesungen/spanien"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/produkte/simple-bill</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/produkte/simple-bill"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/products/simple-bill"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/produkte/simple-bill"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/prodotti/semplice-disegno-di-legge"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/proizvodi/jednostavan-racun"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/productos/simple-bill"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/produkte/simple-bill"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/produkte/digitalbilldemo</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/produkte/digitalbilldemo"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/products/digitalbilldemo"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/produkte/digitalbilldemo"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/prodotti/digitalbilldemo"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/proizvodi/digitalbilldemo"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/productos/digitalbilldemo"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/produkte/digitalbilldemo"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/produkte/datensicherheit-digitaler-beleg</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/produkte/datensicherheit-digitaler-beleg"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/products/data-security-digital-document"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/produkte/datensicherheit-digitaler-beleg"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/prodotti/sicurezza-dei-dati-documento-digitale"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/proizvodi/digitalna-potvrda-o-sigurnosti-podataka"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/productos/datensicherheit-digitaler-beleg"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/produkte/datensicherheit-digitaler-beleg"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/produkte/e-invoicing</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/produkte/e-invoicing"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/products/e-invoicing"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/produkte/e-invoicing"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/prodotti/fatturazione-elettronica"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/proizvodi/e-fakturiranje"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/productos/e-invoicing"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/produkte/e-invoicing"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/produkte/e-invoicing-italien-sdi-system</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/produkte/e-invoicing-italien-sdi-system"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/products/e-invoicing-italy-sdi-system"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/produkte/e-invoicing-italien-sdi-system"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/prodotti/fatturazione-elettronica-italia-sistema-sdi"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/proizvodi/e-fakturiranje-italija-sdi-sustav"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/productos/e-invoicing-italien-sdi-system"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/produkte/e-invoicing-italien-sdi-system"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/produkte/e-invoicing-deutschland-xrechnung</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/produkte/e-invoicing-deutschland-xrechnung"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/products/e-invoicing-germany-xinvoice"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/produkte/e-invoicing-deutschland-xrechnung"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/prodotti/fatturazione-elettronica-in-germania-xinvoice"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/proizvodi/e-fakturiranje-njemacka-xinvoice"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/productos/e-invoicing-deutschland-xrechnung"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/produkte/e-invoicing-deutschland-xrechnung"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/produkte/smart-bill</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/produkte/smart-bill"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/products/smart-bill"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/produkte/smart-bill"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/prodotti/bolletta-intelligente"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/proizvodi/pametni-racun"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/productos/smart-bill"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/produkte/smart-bill"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/produkte/digitaler-beleg</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/produkte/digitaler-beleg"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/products/digital-document"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/produkte/digitaler-beleg"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/prodotti/documento-digitale"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/proizvodi/digitaler-beleg"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/productos/documento-digital"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/produkte/digitaler-beleg"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/kundenservice-supportformular</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/kundenservice-supportformular"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/customer-service-support-form"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/kundenservice-supportformular"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/kundenservice-supportformular"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/obrazac-za-podrsku-korisnicima"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/kundenservice-supportformular"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/kundenservice-supportformular"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/ueber-uns-ihr-partner-fur-fiskalisierung</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/ueber-uns-ihr-partner-fur-fiskalisierung"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/about-us-your-partner-for-fiscalization"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/ueber-uns-ihr-partner-fur-fiskalisierung"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/chi-siamo-il-vostro-partner-per-la-fiscalizzazione"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/o-nama-vas-partner-za-fiskalizaciju"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/ueber-uns-ihr-partner-fur-fiskalisierung"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/ueber-uns-ihr-partner-fur-fiskalisierung"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/unternehmen/das-team</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/das-team"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/company/the-team"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/unternehmen/das-team"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/azienda/il-team"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/tvrtka/tim"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/empresa/el-equipo"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/unternehmen/das-team"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/unternehmen/grundsatze</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/grundsatze"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/company/principles"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/unternehmen/grundsatze"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/azienda/grundsatze"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/tvrtka/nacela"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/empresa/grundsatze"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/unternehmen/grundsatze"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/unternehmen/news</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/news"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/company/news"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/unternehmen/news"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/azienda/news"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/tvrtka/vijesti"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/empresa/news"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/unternehmen/news"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/unternehmen/unser-partner-netzwerk</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/unser-partner-netzwerk"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/company/our-partner-network"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/unternehmen/unser-partner-netzwerk"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/azienda/unser-partner-netzwerk"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/tvrtka/nasa-partnerska-mreza"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/empresa/unser-partner-netzwerk"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/unternehmen/unser-partner-netzwerk"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/unternehmen/referenzen</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/referenzen"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/company/references"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/unternehmen/referenzen"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/azienda/referenzen"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/tvrtka/reference"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/empresa/referenzen"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/unternehmen/referenzen"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/unternehmen/zertifizierungen</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/zertifizierungen"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/company/certifications"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/unternehmen/zertifizierungen"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/azienda/zertifizierungen"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/tvrtka/certifikati"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/empresa/zertifizierungen"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/unternehmen/zertifizierungen"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/eurocis-dusseldorf-2025</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/eurocis-dusseldorf-2025"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/eurocis-dusseldorf-2025"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/eurocis-dusseldorf-2025"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/eurocis-dusseldorf-2025"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/eurocis-dusseldorf-2025"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/eurocis-dusseldorf-2025"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/eurocis-dusseldorf-2025"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/landerubersicht</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/landerubersicht"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/country-overview"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/landerubersicht"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/panoramica-del-paese"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/pregled-zemlje"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/vision-general-del-pais"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/landerubersicht"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/headquartersteyr-new-office</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/headquartersteyr-new-office"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/headquartersteyr-new-office"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/headquartersteyr-new-office"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/sede-del-nuovo-ufficio"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/sjediste-u-novom-uredu"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/headquartersteyr-new-office"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/headquartersteyr-new-office"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/newsletter-anmeldung</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter-anmeldung"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter-registration"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter-anmeldung"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/registrazione-alla-newsletter"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/prijava-na-bilten"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/newsletter-anmeldung"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter-anmeldung"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/losungen/rksv-uberblick</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/rksv-uberblick"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/solutions/rksv-overview"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/losungen/rksv-uberblick"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/soluzioni/panoramica-di-rksv"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/rjesenja/pregled-rksv-a"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/soluciones/rksv-uberblick"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/rksv-uberblick"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/losungen/meldepflicht-de-kassensysteme</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/meldepflicht-de-kassensysteme"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/solutions/mandatory-reporting-of-cash-register-systems"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/losungen/meldepflicht-de-kassensysteme"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/soluzioni/segnalazione-obbligatoria-dei-sistemi-di-registratori-di-cassa"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/rjesenja/obveza-izvjestavanja-za-sustave-blagajne"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/soluciones/meldepflicht-de-kassensysteme"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/meldepflicht-de-kassensysteme"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/losungen/italy-cloud-solution-losung-fur-die-fiskalisierung</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/italy-cloud-solution-losung-fur-die-fiskalisierung"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/solutions/italy-cloud-solution-solution-for-fiscalization"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/losungen/italy-cloud-solution-losung-fur-die-fiskalisierung"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/soluzioni/italia-soluzione-cloud-per-la-fiscalizzazione"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/rjesenja/italijansko-cloud-rjesenje-za-fiskalizaciju"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/soluciones/italy-cloud-solution-losung-fur-die-fiskalisierung"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/italy-cloud-solution-losung-fur-die-fiskalisierung"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/losungen/tse-deutschland</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/tse-deutschland"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/solutions/tse-germany"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/losungen/tse-deutschland"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/soluzioni/tse-germania"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/rjesenja/tse-njemacka"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/soluciones/tse-deutschland"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/tse-deutschland"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/losungen/ticketbai</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/ticketbai"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/solutions/ticketbai"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/losungen/ticketbai"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/soluzioni/ticketbai"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/rjesenja/ticketbai"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/soluciones/ticketbai"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/ticketbai"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/losungen/kassensichv</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/kassensichv"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/solutions/cash"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/losungen/kassensichv"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/soluzioni/contanti"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/rjesenja/kasa"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/soluciones/kassensichv"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/kassensichv"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/losungen/isca-konformitat-pos-software</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/isca-konformitat-pos-software"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/solutions/isca-conformity-pos-software"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/losungen/isca-konformitat-pos-software"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/soluzioni/software-pos-di-conformita-isca"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/rjesenja/isca-softver-za-pos-usklađenost"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/soluciones/isca-konformitat-pos-software"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/isca-konformitat-pos-software"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/losungen/verifactu</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/verifactu"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/solutions/verifactu"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/losungen/verifactu"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/soluzioni/verifactu"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/rjesenja/potvrđeno"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/soluciones/verifactu"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/verifactu"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/losungen/faq-s-meldepflicht-webinar</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/faq-s-meldepflicht-webinar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/solutions/faq-s-mandatory-reporting-webinar"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/losungen/faq-s-meldepflicht-webinar"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/soluzioni/faq-s-webinar-sulla-rendicontazione-obbligatoria"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/rjesenja/cesto-postavljana-pitanja-o-obvezi-izvjestavanja-o-webinaru"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/soluciones/faq-s-seminario-web-sobre-notificacion-obligatoria"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/faq-s-meldepflicht-webinar"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/losungen/digitaler-kassenbeleg</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/digitaler-kassenbeleg"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/solutions/digital-till-receipt"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/losungen/digitaler-kassenbeleg"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/soluzioni/scontrino-di-cassa-digitale"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/rjesenja/digitalni-racun"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/soluciones/recibo-de-caja-digital"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/digitaler-kassenbeleg"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/losungen/zertifizierung-frankreich</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/zertifizierung-frankreich"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/solutions/certification-france"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/losungen/zertifizierung-frankreich"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/soluzioni/certificazione-francia"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/rjesenja/certifikacija-francuska"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/soluciones/zertifizierung-frankreich"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/zertifizierung-frankreich"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/wissensdatenbank/digitale-signatur-und-sicherheit</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/wissensdatenbank/digitale-signatur-und-sicherheit"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/knowledge-database/digital-signature-and-security"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/wissensdatenbank/digitale-signatur-und-sicherheit"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/database-della-conoscenza/digitale-signatur-und-sicherheit"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/baza-znanja/digitalni-potpis-i-sigurnost"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/base-de-datos-de-conocimientos/firma-digital-y-seguridad"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/wissensdatenbank/digitale-signatur-und-sicherheit"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/wissensdatenbank/datenerfassungs--protokoll-dep-transaktionen-und-aufzeichnung</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/wissensdatenbank/datenerfassungs--protokoll-dep-transaktionen-und-aufzeichnung"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/knowledge-database/data-collection-protocol-dep-transactions-and-recording"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/wissensdatenbank/datenerfassungs--protokoll-dep-transaktionen-und-aufzeichnung"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/database-della-conoscenza/datenerfassungs--protokoll-dep-transaktionen-und-aufzeichnung"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/baza-znanja/protokol-za-prikupljanje-podataka-transakcije-i-snimanje"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/base-de-datos-de-conocimientos/datenerfassungs--protokoll-dep-transaktionen-und-aufzeichnung"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/wissensdatenbank/datenerfassungs--protokoll-dep-transaktionen-und-aufzeichnung"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/wissensdatenbank/sicherheitszertifikate-in-osterreich-fur-registrierkassen</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/wissensdatenbank/sicherheitszertifikate-in-osterreich-fur-registrierkassen"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/knowledge-database/security-certificates-in-austria-for-cash-registers"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/wissensdatenbank/sicherheitszertifikate-in-osterreich-fur-registrierkassen"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/database-della-conoscenza/sicherheitszertifikate-in-osterreich-fur-registrierkassen"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/baza-znanja/sigurnosni-certifikati-u-austriji-za-blagajne"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/base-de-datos-de-conocimientos/sicherheitszertifikate-in-osterreich-fur-registrierkassen"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/wissensdatenbank/sicherheitszertifikate-in-osterreich-fur-registrierkassen"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/wissensdatenbank/qr-code-auf-belegen</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/wissensdatenbank/qr-code-auf-belegen"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/knowledge-database/qr-code-on-occupancy"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/wissensdatenbank/qr-code-auf-belegen"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/database-della-conoscenza/qr-code-auf-belegen"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/baza-znanja/qr-kod-na-racunima"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/base-de-datos-de-conocimientos/qr-code-auf-belegen"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/wissensdatenbank/qr-code-auf-belegen"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/google-wallet-digitaler-beleg-von-efsta</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/google-wallet-digitaler-beleg-von-efsta"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/google-wallet-digital-receipt-from-efsta"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/google-wallet-digitaler-beleg-von-efsta"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/google-wallet-digitaler-beleg-von-efsta"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/digitalni-racun-za-google-novcanik-od-efsta-e"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/google-wallet-digitaler-beleg-von-efsta"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/google-wallet-digitaler-beleg-von-efsta"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/job/it-consultant-m-w-d</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/job/it-consultant-m-w-d"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/job/it-consultant-m-w-d"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/job/it-consultant-m-w-d"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/lavoro/it-consultant-m-w-d"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/posao/it-konzultant-m-z-d-"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/empleo/it-consultant-m-w-d"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/job/it-consultant-m-w-d"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/job/junior-sales-assistant-m-w-d</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/job/junior-sales-assistant-m-w-d"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/job/junior-sales-assistant-m-f-d"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/job/junior-sales-assistant-m-w-d"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/lavoro/junior-sales-assistant-m-w-d"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/posao/mlađi-prodavac-mwd-"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/empleo/junior-sales-assistant-m-w-d"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/job/junior-sales-assistant-m-w-d"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/newsletter/acos-id-2-1-zertifizierung-a-trust-nicht-verlaengert</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/acos-id-2-1-zertifizierung-a-trust-nicht-verlaengert"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/acos-id-2-1-certification-a-trust-not-extended"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/acos-id-2-1-zertifizierung-a-trust-nicht-verlaengert"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/acos-id-2-1-certificazione-a-trust-non-esteso"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/bilten/acos-id-2-1-certifikat-povjerenje-nije-obnovljeno"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/boletin/acos-id-2-1-zertifizierung-a-trust-nicht-verlaengert"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/acos-id-2-1-zertifizierung-a-trust-nicht-verlaengert"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/newsletter/belgien-update</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/belgien-update"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/belgium-update"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/belgien-update"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/belgien-update"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/bilten/azuriranje-za-belgiju"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/boletin/belgien-update"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/belgien-update"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/newsletter/chatbot-olaf</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/chatbot-olaf"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/chatbot-olaf"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/chatbot-olaf"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/chatbot-olaf"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/bilten/chatbot-olaf"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/boletin/chatbot-olaf"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/chatbot-olaf"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/newsletter/cloud-fiskalisierung-in-italien-alles-was-sie-jetzt-wissen-mussen</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/cloud-fiskalisierung-in-italien-alles-was-sie-jetzt-wissen-mussen"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/cloud-fiscalization-in-italy-everything-you-need-to-know-now"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/cloud-fiskalisierung-in-italien-alles-was-sie-jetzt-wissen-mussen"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/cloud-fiskalisierung-in-italien-alles-was-sie-jetzt-wissen-mussen"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/bilten/fiskalizacija-u-oblaku-u-italiji-sve-sto-trebate-znati-sada"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/boletin/cloud-fiskalisierung-in-italien-alles-was-sie-jetzt-wissen-mussen"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/cloud-fiskalisierung-in-italien-alles-was-sie-jetzt-wissen-mussen"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/newsletter/croatia-fiscalization-law-2-0</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/croatia-fiscalization-law-2-0"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/croatia-fiscalization-law-2-0"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/croatia-fiscalization-law-2-0"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/croatia-fiscalization-law-2-0"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/bilten/hrvatski-zakon-o-fiskalizaciji-2-0"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/boletin/croatia-fiscalization-law-2-0"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/croatia-fiscalization-law-2-0"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/newsletter/datev-anbindung</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/datev-anbindung"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/datev-connection"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/datev-anbindung"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/datev-anbindung"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/bilten/datev-anbindung"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/boletin/datev-anbindung"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/datev-anbindung"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/newsletter/de-meldepflicht-fur-2025</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/de-meldepflicht-fur-2025"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/de-reporting-obligation-for-2025"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/de-meldepflicht-fur-2025"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/de-meldepflicht-fur-2025"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/bilten/obveza-izvjescivanja-za-2025-godinu"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/boletin/obligacion-de-informar-para-2025"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/de-meldepflicht-fur-2025"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/newsletter/digitale-umsatzerfassung-in-danemark</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/digitale-umsatzerfassung-in-danemark"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/digital-revenue-recognition-in-denmark"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/digitale-umsatzerfassung-in-danemark"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/digitale-umsatzerfassung-in-danemark"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/bilten/digitalno-evidentiranje-prodaje-u-danskoj"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/boletin/reconocimiento-de-ingresos-digitales-en-dinamarca"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/digitale-umsatzerfassung-in-danemark"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/newsletter/efr-spain-newsletter</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/efr-spain-newsletter"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/efr-spain-newsletter"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/efr-spain-newsletter"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/efr-spain-newsletter"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/bilten/bilten-efr-a-za-spanjolsku"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/boletin/efr-spain-newsletter"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/efr-spain-newsletter"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/newsletter/elektronische-b2b-rechnungsstellung</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/elektronische-b2b-rechnungsstellung"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/electronic-b2b-invoicing"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/elektronische-b2b-rechnungsstellung"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/elektronische-b2b-rechnungsstellung"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/bilten/elektronicko-b2b-fakturiranje"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/boletin/facturacion-electronica-b2b"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/elektronische-b2b-rechnungsstellung"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/newsletter/ende-der-selbstzertifizierung-in-frankreich</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/ende-der-selbstzertifizierung-in-frankreich"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/end-of-self-certification-in-france"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/ende-der-selbstzertifizierung-in-frankreich"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/ende-der-selbstzertifizierung-in-frankreich"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/bilten/kraj-samocertificiranja-u-francuskoj"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/boletin/ende-der-selbstzertifizierung-in-frankreich"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/ende-der-selbstzertifizierung-in-frankreich"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/newsletter/exclusive-update-apple-wallet-integration</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/exclusive-update-apple-wallet-integration"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/exclusive-update-apple-wallet-integration"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/exclusive-update-apple-wallet-integration"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/exclusive-update-apple-wallet-integration"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/bilten/ekskluzivno-azuriranje-integracije-apple-novcanika"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/boletin/actualizacion-exclusiva-integracion-apple-wallet"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/exclusive-update-apple-wallet-integration"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/newsletter/frankreich-ende-der-selbstzertifizierung-und-neue-pflicht-zur-pos-zertifizierung-ab-2025</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/frankreich-ende-der-selbstzertifizierung-und-neue-pflicht-zur-pos-zertifizierung-ab-2025"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/france-end-of-self-certification-and-new-obligation-for-pos-certification-from-2025"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/frankreich-ende-der-selbstzertifizierung-und-neue-pflicht-zur-pos-zertifizierung-ab-2025"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/frankreich-ende-der-selbstzertifizierung-und-neue-pflicht-zur-pos-zertifizierung-ab-2025"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/bilten/francuska-ukida-samocertificiranje-i-uvodi-nove-zahtjeve-za-certificiranje-pos-sustava-od-2025-"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/boletin/frankreich-ende-der-selbstzertifizierung-und-neue-pflicht-zur-pos-zertifizierung-ab-2025"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/frankreich-ende-der-selbstzertifizierung-und-neue-pflicht-zur-pos-zertifizierung-ab-2025"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/newsletter/future-of-retail</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/future-of-retail"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/future-of-retail"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/future-of-retail"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/future-of-retail"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/bilten/buducnost-maloprodaje"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/boletin/future-of-retail"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/future-of-retail"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/newsletter/leitfaden-fur-den-digitalen-kassenbon</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/leitfaden-fur-den-digitalen-kassenbon"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/guide-to-the-digital-receipt"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/leitfaden-fur-den-digitalen-kassenbon"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/leitfaden-fur-den-digitalen-kassenbon"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/bilten/vodic-za-digitalni-racun"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/boletin/leitfaden-fur-den-digitalen-kassenbon"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/leitfaden-fur-den-digitalen-kassenbon"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/newsletter/neue-c-level-struktur-bei-efsta-mit-klarer-fuhrung-in-eine-wachstumsstarke-zukunft</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/neue-c-level-struktur-bei-efsta-mit-klarer-fuhrung-in-eine-wachstumsstarke-zukunft"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/new-c-level-structure-at-efsta-with-clear-leadership-for-a-strong-growth-future"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/neue-c-level-struktur-bei-efsta-mit-klarer-fuhrung-in-eine-wachstumsstarke-zukunft"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/neue-c-level-struktur-bei-efsta-mit-klarer-fuhrung-in-eine-wachstumsstarke-zukunft"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/bilten/nova-struktura-na-razini-c-u-efsti-s-jasnim-vodstvom-za-buducnost-visokog-rasta"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/boletin/neue-c-level-struktur-bei-efsta-mit-klarer-fuhrung-in-eine-wachstumsstarke-zukunft"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/neue-c-level-struktur-bei-efsta-mit-klarer-fuhrung-in-eine-wachstumsstarke-zukunft"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/newsletter/neue-efsta-dokumentationsseite</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/neue-efsta-dokumentationsseite"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/new-efsta-documentation-page"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/neue-efsta-dokumentationsseite"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/neue-efsta-dokumentationsseite"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/bilten/nova-efsta-stranica-s-dokumentacijom"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/boletin/neue-efsta-dokumentationsseite"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/neue-efsta-dokumentationsseite"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/newsletter/newsletter-exklusive-einblicke-in-unseren-digitalen-kassenbon</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/newsletter-exklusive-einblicke-in-unseren-digitalen-kassenbon"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/newsletter-exclusive-insights-into-our-digital-receipt"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/newsletter-exklusive-einblicke-in-unseren-digitalen-kassenbon"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/newsletter-exklusive-einblicke-in-unseren-digitalen-kassenbon"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/bilten/ekskluzivni-uvidi-u-nas-digitalni-racun-u-biltenu"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/boletin/newsletter-exklusive-einblicke-in-unseren-digitalen-kassenbon"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/newsletter-exklusive-einblicke-in-unseren-digitalen-kassenbon"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/newsletter/optimieren-sie-ihr-kassensystem-mit-efsta</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/optimieren-sie-ihr-kassensystem-mit-efsta"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/optimize-your-cash-register-system-with-efsta"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/optimieren-sie-ihr-kassensystem-mit-efsta"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/optimieren-sie-ihr-kassensystem-mit-efsta"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/bilten/optimizirajte-svoj-blagajnicki-sustav-s-efsta-om"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/boletin/optimieren-sie-ihr-kassensystem-mit-efsta"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/optimieren-sie-ihr-kassensystem-mit-efsta"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/newsletter/schweden-integration</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/schweden-integration"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/sweden-integration"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/suede-integration"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/schweden-integration"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/bilten/integracija-svedske"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/boletin/integracion-de-suecia"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/schweden-integration"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/newsletter/schwedische-unternehmen-keine-papierbelege</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/schwedische-unternehmen-keine-papierbelege"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/swedish-companies-no-paper-receipts"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/schwedische-unternehmen-keine-papierbelege"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/schwedische-unternehmen-keine-papierbelege"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/bilten/svedske-tvrtke-ne-izdaju-papirnate-racune"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/boletin/schwedische-unternehmen-keine-papierbelege"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/schwedische-unternehmen-keine-papierbelege"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/newsletter/sicher-ist-sicher---efsta-erreicht-iso-27001-2022-zertifizierung</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/sicher-ist-sicher---efsta-erreicht-iso-27001-2022-zertifizierung"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/safe-is-safe-efsta-achieves-iso-27001-2022-certification"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/sicher-ist-sicher---efsta-erreicht-iso-27001-2022-zertifizierung"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/sicher-ist-sicher---efsta-erreicht-iso-27001-2022-zertifizierung"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/bilten/bolje-sprijeciti-nego-lijeciti-efsta-postize-certifikat-iso-27001-2022-"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/boletin/sicher-ist-sicher---efsta-erreicht-iso-27001-2022-zertifizierung"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/sicher-ist-sicher---efsta-erreicht-iso-27001-2022-zertifizierung"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/newsletter/treiber-update-fur-die-deutsche-fiskal-tse</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/treiber-update-fur-die-deutsche-fiskal-tse"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/driver-update-for-the-german-fiscal-tse"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/treiber-update-fur-die-deutsche-fiskal-tse"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/treiber-update-fur-die-deutsche-fiskal-tse"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/bilten/azuriranje-upravljackog-programa-za-njemacki-fiskalni-tse"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/boletin/actualizacion-de-controladores-para-el-tse-fiscal-aleman"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/treiber-update-fur-die-deutsche-fiskal-tse"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/newsletter/update-zur-meldepflicht-de-2025</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/update-zur-meldepflicht-de-2025"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/newsletter/update-on-the-reporting-obligation-de-2025"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/newsletter/update-zur-meldepflicht-de-2025"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/newsletter/update-zur-meldepflicht-de-2025"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/bilten/azuriranje-o-obvezi-izvjescivanja-u-2025-godini"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/boletin/update-zur-meldepflicht-de-2025"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/update-zur-meldepflicht-de-2025"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/fiskalisierung/belgien</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/belgien"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiscalization/belgium"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/belgien"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiscalizzazione/belgio"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalizacija/belgija"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiscalizacion/belgica"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/belgien"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/fiskalisierung/danemark</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/danemark"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiscalization/denmark"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/danemark"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiscalizzazione/danemark"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalizacija/danska"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiscalizacion/danemark"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/danemark"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/fiskalisierung/deutschland</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/deutschland"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiscalization/germany"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/deutschland"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiscalizzazione/germania"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalizacija/njemacka"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiscalizacion/alemania"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/deutschland"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/fiskalisierung/frankreich</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/frankreich"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiscalization/france"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/frankreich"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiscalizzazione/francia"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalizacija/francuska"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiscalizacion/frankreich"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/frankreich"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/fiskalisierung/italien</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/italien"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiscalization/italy"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/italien"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiscalizzazione/italia"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalizacija/italija"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiscalizacion/italien"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/italien"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/fiskalisierung/kroatien</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/kroatien"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiscalization/croatia"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/kroatien"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiscalizzazione/croazia"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalizacija/hrvatska"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiscalizacion/croacia"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/kroatien"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/fiskalisierung/norwegen</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/norwegen"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiscalization/norway"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/norwegen"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiscalizzazione/norvegia"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalizacija/norveska"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiscalizacion/norwegen"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/norwegen"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/fiskalisierung/osterreich</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/osterreich"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiscalization/austria"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/osterreich"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiscalizzazione/austria"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalizacija/austrija"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiscalizacion/austria"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/osterreich"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/fiskalisierung/polen</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/polen"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiscalization/poland"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/polen"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiscalizzazione/polonia"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalizacija/poljska"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiscalizacion/polen"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/polen"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/fiskalisierung/portugal</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/portugal"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiscalization/portugal"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/portugal"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiscalizzazione/portogallo"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalizacija/portugal"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiscalizacion/portugal"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/portugal"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/fiskalisierung/schweden</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/schweden"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiscalization/sweden"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/suede"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiscalizzazione/svezia"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalizacija/svedska"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiscalizacion/suecia"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/schweden"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/fiskalisierung/slowakei</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/slowakei"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiscalization/slovakia"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/slowakei"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiscalizzazione/slovacchia"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalizacija/slovacka"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiscalizacion/slowakei"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/slowakei"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/fiskalisierung/slowenien</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/slowenien"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiscalization/slovenia"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/slowenien"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiscalizzazione/slovenia"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalizacija/slovenija"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiscalizacion/slowenien"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/slowenien"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/fiskalisierung/spanien</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/spanien"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiscalization/spain"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/spanien"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiscalizzazione/spagna"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalizacija/spanjolska"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiscalizacion/spanien"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/spanien"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/fiskalisierung/tschechische-republik</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/tschechische-republik"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiscalization/czech-republic"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/tschechische-republik"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiscalizzazione/repubblica-ceca"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalizacija/ceska"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiscalizacion/tschechische-republik"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/tschechische-republik"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/fiskalisierung/ungarn</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/ungarn"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.efsta.eu/fiscalization/hungary"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.efsta.eu/fiskalisierung/ungarn"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://it.efsta.eu/fiscalizzazione/ungheria"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://hr.efsta.eu/fiskalizacija/mađarska"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://es.efsta.eu/fiscalizacion/ungarn"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/ungarn"/>
+  </url>
 </urlset>
-```
