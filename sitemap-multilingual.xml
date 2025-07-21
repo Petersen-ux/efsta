@@ -1,8 +1,3 @@
-Absolut\! Hier ist die vollständige und korrigierte Sitemap.
-
-Sie können diesen Code direkt kopieren und als Ihre neue Sitemap-Datei speichern. Er ist nun syntaktisch korrekt und sollte von der Google Search Console ohne Fehler akzeptiert werden.
-
-```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
