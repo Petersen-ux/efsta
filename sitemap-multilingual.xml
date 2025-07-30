@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-   <url>
-      <loc>https://www.efsta.eu/robots.txt</loc>
-      <lastmod>2025-07-23</lastmod>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.efsta.eu/sitemap.xml</loc>
-      <lastmod>2025-07-23</lastmod>
-      <priority>1.0</priority>
-   </url>
+   
    <url>
       <loc>https://www.efsta.eu/</loc>
       <lastmod>2025-07-23</lastmod>
@@ -2080,11 +2071,7 @@
       <lastmod>2025-07-23</lastmod>
       <priority>1.0</priority>
    </url>
-   <url>
-      <loc>https://www.efsta.eu/404</loc>
-      <lastmod>2025-07-23</lastmod>
-      <priority>1.0</priority>
-   </url>
+
    <url>
       <loc>https://www.efsta.eu/it/newsletter/aziende-svedesi-senza-ricevute-cartacee</loc>
       <lastmod>2025-07-23</lastmod>
@@ -2390,31 +2377,7 @@
       <lastmod>2025-07-23</lastmod>
       <priority>1.0</priority>
    </url>
-   <url>
-      <loc>https://www.efsta.eu/it/404</loc>
-      <lastmod>2025-07-23</lastmod>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.efsta.eu/hr/404</loc>
-      <lastmod>2025-07-23</lastmod>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.efsta.eu/en/404</loc>
-      <lastmod>2025-07-23</lastmod>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.efsta.eu/es/404</loc>
-      <lastmod>2025-07-23</lastmod>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://www.efsta.eu/fr/404</loc>
-      <lastmod>2025-07-23</lastmod>
-      <priority>1.0</priority>
-   </url>
+
    <url>
       <loc>https://www.efsta.eu/laenderloesungen/danemark-mehrwertsteuerverordnung-verkaufsregistrierungssystem</loc>
       <lastmod>2025-07-23</lastmod>
