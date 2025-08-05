@@ -1,63 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
   <url>
     <loc>https://www.efsta.eu/</loc>
     <lastmod>2025-08-05</lastmod>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it"/>
-    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en"/>
   </url>
   <url>
-    <loc>https://www.efsta.eu/en</loc>
-    <lastmod>2025-08-05</lastmod>
-    <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it"/>
-    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en"/>
-  </url>
-    <url>
-    <loc>https://www.efsta.eu/es</loc>
-    <lastmod>2025-08-05</lastmod>
-    <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it"/>
-    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en"/>
-  </url>
-  <url>
-    <loc>https://www.efsta.eu/fr</loc>
-    <lastmod>2025-08-05</lastmod>
-    <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it"/>
-    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en"/>
-  </url>
-    <url>
     <loc>https://www.efsta.eu/it</loc>
     <lastmod>2025-08-05</lastmod>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it"/>
-    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en"/>
   </url>
   <url>
@@ -65,12 +30,559 @@
     <lastmod>2025-08-05</lastmod>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/en</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it"/>
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/es</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/fr</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en"/>
+  </url>
+
+  <url>
+    <loc>https://www.efsta.eu/ueber-uns-ihr-partner-fur-fiskalisierung</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/ueber-uns-ihr-partner-fur-fiskalisierung"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/chi-siamo-il-vostro-partner-per-la-fiscalizzazione"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/o-nama-vas-partner-za-fiskalizaciju"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/about-us-your-partner-for-fiscalization"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/quienes-somos-su-socio-para-la-fiscalizacion"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/a-propos-de-nous-votre-partenaire-pour-la-fiscalisation"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/about-us-your-partner-for-fiscalization"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/it/chi-siamo-il-vostro-partner-per-la-fiscalizzazione</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/ueber-uns-ihr-partner-fur-fiskalisierung"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/chi-siamo-il-vostro-partner-per-la-fiscalizzazione"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/o-nama-vas-partner-za-fiskalizaciju"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/about-us-your-partner-for-fiscalization"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/quienes-somos-su-socio-para-la-fiscalizacion"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/a-propos-de-nous-votre-partenaire-pour-la-fiscalisation"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/about-us-your-partner-for-fiscalization"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/hr/o-nama-vas-partner-za-fiskalizaciju</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/ueber-uns-ihr-partner-fur-fiskalisierung"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/chi-siamo-il-vostro-partner-per-la-fiscalizzazione"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/o-nama-vas-partner-za-fiskalizaciju"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/about-us-your-partner-for-fiscalization"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/quienes-somos-su-socio-para-la-fiscalizacion"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/a-propos-de-nous-votre-partenaire-pour-la-fiscalisation"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/about-us-your-partner-for-fiscalization"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/en/about-us-your-partner-for-fiscalization</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/ueber-uns-ihr-partner-fur-fiskalisierung"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/chi-siamo-il-vostro-partner-per-la-fiscalizzazione"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/o-nama-vas-partner-za-fiskalizaciju"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/about-us-your-partner-for-fiscalization"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/quienes-somos-su-socio-para-la-fiscalizacion"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/a-propos-de-nous-votre-partenaire-pour-la-fiscalisation"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/about-us-your-partner-for-fiscalization"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/es/quienes-somos-su-socio-para-la-fiscalizacion</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/ueber-uns-ihr-partner-fur-fiskalisierung"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/chi-siamo-il-vostro-partner-per-la-fiscalizzazione"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/o-nama-vas-partner-za-fiskalizaciju"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/about-us-your-partner-for-fiscalization"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/quienes-somos-su-socio-para-la-fiscalizacion"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/a-propos-de-nous-votre-partenaire-pour-la-fiscalisation"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/about-us-your-partner-for-fiscalization"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/fr/a-propos-de-nous-votre-partenaire-pour-la-fiscalisation</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/ueber-uns-ihr-partner-fur-fiskalisierung"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/chi-siamo-il-vostro-partner-per-la-fiscalizzazione"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/o-nama-vas-partner-za-fiskalizaciju"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/about-us-your-partner-for-fiscalization"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/quienes-somos-su-socio-para-la-fiscalizacion"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/a-propos-de-nous-votre-partenaire-pour-la-fiscalisation"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/about-us-your-partner-for-fiscalization"/>
+  </url>
+
+  <url>
+    <loc>https://www.efsta.eu/unternehmen/das-team</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/das-team"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/il-team"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/tim"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/the-team"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/el-equipo"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/equipe"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/the-team"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/it/azienda/il-team</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/das-team"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/il-team"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/tim"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/the-team"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/el-equipo"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/equipe"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/the-team"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/hr/tvrtka/tim</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/das-team"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/il-team"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/tim"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/the-team"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/el-equipo"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/equipe"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/the-team"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/en/company/the-team</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/das-team"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/il-team"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/tim"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/the-team"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/el-equipo"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/equipe"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/the-team"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/es/empresa/el-equipo</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/das-team"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/il-team"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/tim"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/the-team"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/el-equipo"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/equipe"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/the-team"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/fr/entreprise/equipe</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/das-team"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/il-team"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/tim"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/the-team"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/el-equipo"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/equipe"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/the-team"/>
+  </url>
+
+  <url>
+    <loc>https://www.efsta.eu/unternehmen/referenzen</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/referenzen"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/riferimenti"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/reference"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/references"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/referencias"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/references"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/references"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/it/azienda/riferimenti</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/referenzen"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/riferimenti"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/reference"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/references"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/referencias"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/references"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/references"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/hr/tvrtka/reference</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/referenzen"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/riferimenti"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/reference"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/references"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/referencias"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/references"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/references"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/en/company/references</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/referenzen"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/riferimenti"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/reference"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/references"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/referencias"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/references"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/references"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/es/empresa/referencias</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/referenzen"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/riferimenti"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/reference"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/references"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/referencias"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/references"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/references"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/fr/entreprise/references</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/referenzen"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/riferimenti"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/reference"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/references"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/referencias"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/references"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/references"/>
+  </url>
+
+  <url>
+    <loc>https://www.efsta.eu/unternehmen/unser-partner-netzwerk</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/unser-partner-netzwerk"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/la-nostra-rete-di-partner"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/nasa-partnerska-mreza"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/our-partner-network"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/nuestra-red-de-socios"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/notre-reseau-de-partenaires"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/our-partner-network"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/it/azienda/la-nostra-rete-di-partner</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/unser-partner-netzwerk"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/la-nostra-rete-di-partner"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/nasa-partnerska-mreza"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/our-partner-network"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/nuestra-red-de-socios"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/notre-reseau-de-partenaires"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/our-partner-network"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/hr/tvrtka/nasa-partnerska-mreza</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/unser-partner-netzwerk"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/la-nostra-rete-di-partner"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/nasa-partnerska-mreza"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/our-partner-network"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/nuestra-red-de-socios"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/notre-reseau-de-partenaires"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/our-partner-network"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/en/company/our-partner-network</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/unser-partner-netzwerk"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/la-nostra-rete-di-partner"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/nasa-partnerska-mreza"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/our-partner-network"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/nuestra-red-de-socios"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/notre-reseau-de-partenaires"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/our-partner-network"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/es/empresa/nuestra-red-de-socios</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/unser-partner-netzwerk"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/la-nostra-rete-di-partner"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/nasa-partnerska-mreza"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/our-partner-network"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/nuestra-red-de-socios"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/notre-reseau-de-partenaires"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/our-partner-network"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/fr/entreprise/notre-reseau-de-partenaires</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/unser-partner-netzwerk"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/la-nostra-rete-di-partner"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/nasa-partnerska-mreza"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/our-partner-network"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/nuestra-red-de-socios"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/notre-reseau-de-partenaires"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/our-partner-network"/>
+  </url>
+
+  <url>
+    <loc>https://www.efsta.eu/unternehmen/grundsatze</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/grundsatze"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/principi"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/nacela"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/principles"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/principios"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/principes"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/principles"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/it/azienda/principi</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/grundsatze"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/principi"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/nacela"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/principles"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/principios"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/principes"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/principles"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/hr/tvrtka/nacela</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/grundsatze"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/principi"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/nacela"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/principles"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/principios"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/principes"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/principles"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/en/company/principles</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/grundsatze"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/principi"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/nacela"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/principles"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/principios"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/principes"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/principles"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/es/empresa/principios</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/grundsatze"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/principi"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/nacela"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/principles"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/principios"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/principes"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/principles"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/fr/entreprise/principes</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/grundsatze"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/principi"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/nacela"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/principles"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/principios"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/principes"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/principles"/>
+  </url>
+
+  <url>
+    <loc>https://www.efsta.eu/unternehmen/news</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/news"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/notizie"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/vijesti"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/news"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/noticias"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/actualites"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/news"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/it/azienda/notizie</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/news"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/notizie"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/vijesti"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/news"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/noticias"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/actualites"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/news"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/hr/tvrtka/vijesti</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/news"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/notizie"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/vijesti"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/news"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/noticias"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/actualites"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/news"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/en/company/news</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/news"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/notizie"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/vijesti"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/news"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/noticias"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/actualites"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/news"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/es/empresa/noticias</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/news"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/notizie"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/vijesti"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/news"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/noticias"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/actualites"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/news"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/fr/entreprise/actualites</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/news"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/notizie"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/vijesti"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/news"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/noticias"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/actualites"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/news"/>
+  </url>
+
+  <url>
+    <loc>https://www.efsta.eu/unternehmen/zertifizierungen</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/zertifizierungen"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/certificazioni"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/certifikati"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/certifications"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/certificaciones"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/certifications"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/certifications"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/it/azienda/certificazioni</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/zertifizierungen"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/certificazioni"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/certifikati"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/certifications"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/certificaciones"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/certifications"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/certifications"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/hr/tvrtka/certifikati</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/zertifizierungen"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/certificazioni"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/certifikati"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/certifications"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/certificaciones"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/certifications"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/certifications"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/en/company/certifications</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/zertifizierungen"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/certificazioni"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/certifikati"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/certifications"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/certificaciones"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/certifications"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/certifications"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/es/empresa/certificaciones</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/zertifizierungen"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/certificazioni"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/certifikati"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/certifications"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/certificaciones"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/certifications"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/certifications"/>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/fr/entreprise/certifications</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/zertifizierungen"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/certificazioni"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/certifikati"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/certifications"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/certificaciones"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/certifications"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/company/certifications"/>
   </url>
 
   <url>
@@ -78,144 +590,163 @@
     <lastmod>2025-08-05</lastmod>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/fiscalizzazione"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/fiskalizacija"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/fiscalization"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/fiscalizacion"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/fiscalisation"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/fiscalizzazione"/>
-    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/fiskalizacija"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/fiscalization"/>
   </url>
-    <url>
-    <loc>https://www.efsta.eu/en/fiscalization</loc>
-    <lastmod>2025-08-05</lastmod>
-    <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/fiscalization"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/fiscalizacion"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/fiscalisation"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/fiscalizzazione"/>
-    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/fiskalizacija"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/fiscalization"/>
-  </url>
-    <url>
-    <loc>https://www.efsta.eu/es/fiscalizacion</loc>
-    <lastmod>2025-08-05</lastmod>
-    <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/fiscalization"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/fiscalizacion"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/fiscalisation"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/fiscalizzazione"/>
-    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/fiskalizacija"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/fiscalization"/>
-  </url>
-    <url>
-    <loc>https://www.efsta.eu/fr/fiscalisation</loc>
-    <lastmod>2025-08-05</lastmod>
-    <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/fiscalization"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/fiscalizacion"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/fiscalisation"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/fiscalizzazione"/>
-    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/fiskalizacija"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/fiscalization"/>
-  </url>
-    <url>
+  <url>
     <loc>https://www.efsta.eu/it/fiscalizzazione</loc>
     <lastmod>2025-08-05</lastmod>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/fiscalizzazione"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/fiskalizacija"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/fiscalization"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/fiscalizacion"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/fiscalisation"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/fiscalizzazione"/>
-    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/fiskalizacija"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/fiscalization"/>
   </url>
-    <url>
+  <url>
     <loc>https://www.efsta.eu/hr/fiskalizacija</loc>
     <lastmod>2025-08-05</lastmod>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/fiscalizzazione"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/fiskalizacija"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/fiscalization"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/fiscalizacion"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/fiscalisation"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/fiscalizzazione"/>
-    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/fiskalizacija"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/fiscalization"/>
   </url>
-  
   <url>
-    <loc>https://www.efsta.eu/laenderloesungen/spanien-ticketbai-verifactu</loc>
+    <loc>https://www.efsta.eu/en/fiscalization</loc>
     <lastmod>2025-08-05</lastmod>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/laenderloesungen/spanien-ticketbai-verifactu"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/country-solutions/spanien-ticketbai-verifactu"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/soluciones-nacionales/espana-ticketbai-verifactu"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/solutions-pays/spanien-ticketbai-verifactu"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/soluzioni-per-il-paese/spanien-ticketbai-verifactu"/>
-    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/rjesenja-za-zemlje/spanien-ticketbai-verifactu"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/country-solutions/spanien-ticketbai-verifactu"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/fiscalizzazione"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/fiskalizacija"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/fiscalization"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/fiscalizacion"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/fiscalisation"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/fiscalization"/>
   </url>
   <url>
-    <loc>https://www.efsta.eu/en/country-solutions/spanien-ticketbai-verifactu</loc>
+    <loc>https://www.efsta.eu/es/fiscalizacion</loc>
     <lastmod>2025-08-05</lastmod>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/laenderloesungen/spanien-ticketbai-verifactu"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/country-solutions/spanien-ticketbai-verifactu"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/soluciones-nacionales/espana-ticketbai-verifactu"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/solutions-pays/spanien-ticketbai-verifactu"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/soluzioni-per-il-paese/spanien-ticketbai-verifactu"/>
-    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/rjesenja-za-zemlje/spanien-ticketbai-verifactu"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/country-solutions/spanien-ticketbai-verifactu"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/fiscalizzazione"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/fiskalizacija"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/fiscalization"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/fiscalizacion"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/fiscalisation"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/fiscalization"/>
   </url>
   <url>
-    <loc>https://www.efsta.eu/laenderloesungen/deutschland-kassensichv-tse</loc>
+    <loc>https://www.efsta.eu/fr/fiscalisation</loc>
     <lastmod>2025-08-05</lastmod>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/laenderloesungen/deutschland-kassensichv-tse"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/country-solutions/germany-kassensichv-tse"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/soluciones-nacionales/alemania-kassensichv-tse"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/solutions-pays/allemagne-kassensichv-tse"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/soluzioni-per-il-paese/germania-kassensichv-tse"/>
-    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/rjesenja-za-zemlje/njemacka-sigurnosna-blagajna-tse"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/country-solutions/germany-kassensichv-tse"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/fiscalizzazione"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/fiskalizacija"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/fiscalization"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/fiscalizacion"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/fiscalisation"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/fiscalization"/>
+  </url>
+
+  <url>
+    <loc>https://www.efsta.eu/unternehmen/news?a31e9f13_page=2</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://www.efsta.eu/losungen/kassensichv</loc>
+    <loc>https://www.efsta.eu/it/azienda/notizie?a31e9f13_page=2</loc>
     <lastmod>2025-08-05</lastmod>
-    <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/kassensichv"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/solutions/cash"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/soluciones/efectivo"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/solutions/kassensichv"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/soluzioni/contanti"/>
-    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/rjesenja/kasa"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/solutions/cash"/>
+    <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://www.efsta.eu/losungen/verifactu-vorschriften-und-anderungen</loc>
+    <loc>https://www.efsta.eu/hr/tvrtka/vijesti?a31e9f13_page=2</loc>
     <lastmod>2025-08-05</lastmod>
-    <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/verifactu-vorschriften-und-anderungen"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/solutions/verifactu-regulations-and-changes"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/soluciones/reglamentos-verifactu-y-modificaciones"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/solutions/verifactu-regles-et-modifications"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/soluzioni/regolamenti-e-modifiche-di-verifactu"/>
-    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/rjesenja/verifactu-propisi-i-promjene"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/solutions/verifactu-regulations-and-changes"/>
+    <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://www.efsta.eu/losungen/ticketbai-hacienda-e-rechnung-im-baskenland</loc>
+    <loc>https://www.efsta.eu/en/company/news?a31e9f13_page=2</loc>
     <lastmod>2025-08-05</lastmod>
-    <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/ticketbai-hacienda-e-rechnung-im-baskenland"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/solutions/ticketbai-hacienda"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/soluciones/ticketbai-hacienda-e-rechnung-im-baskenland"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/solutions/ticketbai-hacienda-e-rechnung-im-baskenland"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/soluzioni/ticketbai-hacienda-e-rechnung-im-baskenland"/>
-    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/rjesenja/ticketbai-hacienda-e-rechnung-im-baskenland"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/solutions/ticketbai-hacienda"/>
+    <priority>0.3</priority>
   </url>
-  </urlset>
+  <url>
+    <loc>https://www.efsta.eu/es/empresa/noticias?a31e9f13_page=2</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/fr/entreprise/actualites?a31e9f13_page=2</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/unternehmen/news?a31e9f13_page=1</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/unternehmen/news?a31e9f13_page=3</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/it/azienda/notizie?a31e9f13_page=3</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/hr/tvrtka/vijesti?a31e9f13_page=3</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/en/company/news?a31e9f13_page=3</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/es/empresa/noticias?a31e9f13_page=3</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/fr/entreprise/actualites?a31e9f13_page=3</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.3</priority>
+  </url>
+    <url>
+    <loc>https://www.efsta.eu/en/company/news?a31e9f13_page=1</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/es/empresa/noticias?a31e9f13_page=1</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/it/azienda/notizie?a31e9f13_page=1</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/hr/tvrtka/vijesti?a31e9f13_page=1</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.efsta.eu/fr/entreprise/actualites?a31e9f13_page=1</loc>
+    <lastmod>2025-08-05</lastmod>
+    <priority>0.3</priority>
+  </url>
+    
+</urlset>
