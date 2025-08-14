@@ -4,7 +4,7 @@
 <url>
 	<loc>https://www.efsta.eu/</loc>
 	<lastmod>2025-07-18</lastmod>
-	<priority>0.3</priority>
+	<priority>1.0</priority>
 	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it" />
 	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr" />
 	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en" />
@@ -14,7 +14,7 @@
 <url>
 	<loc>https://www.efsta.eu/it</loc>
 	<lastmod>2025-07-18</lastmod>
-	<priority>0.3</priority>
+	<priority>1.0</priority>
 	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/" />
 	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr" />
 	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en" />
@@ -24,7 +24,7 @@
 <url>
 	<loc>https://www.efsta.eu/hr</loc>
 	<lastmod>2025-07-18</lastmod>
-	<priority>0.3</priority>
+	<priority>1.0</priority>
 	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/" />
 	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it" />
 	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en" />
@@ -34,7 +34,7 @@
 <url>
 	<loc>https://www.efsta.eu/en</loc>
 	<lastmod>2025-07-18</lastmod>
-	<priority>0.3</priority>
+	<priority>1.0</priority>
 	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/" />
 	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it" />
 	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr" />
@@ -44,7 +44,7 @@
 <url>
 	<loc>https://www.efsta.eu/es</loc>
 	<lastmod>2025-07-18</lastmod>
-	<priority>0.3</priority>
+	<priority>1.0</priority>
 	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/" />
 	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it" />
 	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr" />
@@ -54,7 +54,7 @@
 <url>
 	<loc>https://www.efsta.eu/fr</loc>
 	<lastmod>2025-07-18</lastmod>
-	<priority>0.3</priority>
+	<priority>1.0</priority>
 	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/" />
 	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it" />
 	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr" />
