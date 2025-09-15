@@ -3872,16 +3872,6 @@
 	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/newsletter/les-entreprises-suedoises-n-utilisent-pas-de-documents-papier" />
 </url>
 <url>
-	<loc>https://www.efsta.eu/it/lander/svezia</loc>
-	<lastmod>2025-09-12T12:29:17+01:00</lastmod>
-	<priority>0.6</priority>
-	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/lander/schweden" />
-	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/lander/svedska" />
-	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/lander/sweden" />
-	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/lander/suecia" />
-	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/lander/suede" />
-</url>
-<url>
 	<loc>https://www.efsta.eu/hr/bilten/chatbot-olaf</loc>
 	<lastmod>2025-09-12T12:29:20+01:00</lastmod>
 	<priority>0.6</priority>
@@ -3960,26 +3950,6 @@
 	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/news?a31e9f13_page=4" />
 	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/noticias?a31e9f13_page=4" />
 	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/actualites?a31e9f13_page=4" />
-</url>
-<url>
-	<loc>https://www.efsta.eu/hr/lander/svedska</loc>
-	<lastmod>2025-09-12T12:29:22+01:00</lastmod>
-	<priority>0.6</priority>
-	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/lander/schweden" />
-	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/lander/svezia" />
-	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/lander/sweden" />
-	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/lander/suecia" />
-	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/lander/suede" />
-</url>
-<url>
-	<loc>https://www.efsta.eu/fr/lander/suede</loc>
-	<lastmod>2025-09-12T12:29:22+01:00</lastmod>
-	<priority>0.6</priority>
-	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/lander/schweden" />
-	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/lander/svezia" />
-	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/lander/svedska" />
-	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/lander/sweden" />
-	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/lander/suecia" />
 </url>
 <url>
 	<loc>https://www.efsta.eu/en/newsletter/guide-to-the-digital-receipt</loc>
