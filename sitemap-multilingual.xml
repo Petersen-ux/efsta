@@ -222,16 +222,6 @@
 	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/produits/digitalbilldemo" />
 </url>
 <url>
-	<loc>https://www.efsta.eu/efsta-wallet</loc>
-	<lastmod>2025-09-12T12:28:24+01:00</lastmod>
-	<priority>1.0</priority>
-	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/portafoglio-efsta" />
-	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/efsta-novcanik" />
-	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/efsta-wallet" />
-	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/monedero-efsta" />
-	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/efsta-wallet" />
-</url>
-<url>
 	<loc>https://www.efsta.eu/losungen/kassensichv</loc>
 	<lastmod>2025-09-12T12:28:24+01:00</lastmod>
 	<priority>0.8</priority>
@@ -573,17 +563,6 @@
 	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/produits/digitalbilldemo" />
 </url>
 <url>
-	<loc>https://www.efsta.eu/it/portafoglio-efsta</loc>
-	<lastmod>2025-09-12T12:28:24+01:00</lastmod>
-	<priority>0.8</priority>
-	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/efsta-wallet" />
-	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/efsta-novcanik" />
-	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/efsta-wallet" />
-	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/monedero-efsta" />
-	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/efsta-wallet" />
-</url>
-
-<url>
 	<loc>https://www.efsta.eu/it/soluzioni/kassensichv</loc>
 	<lastmod>2025-09-12T12:28:24+01:00</lastmod>
 	<priority>0.6</priority>
@@ -922,16 +901,6 @@
 	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/proizvodi/digitalbilldemo" />
 	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/productos/digitalbilldemo" />
 	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/produits/digitalbilldemo" />
-</url>
-<url>
-	<loc>https://www.efsta.eu/en/efsta-wallet</loc>
-	<lastmod>2025-09-12T12:28:26+01:00</lastmod>
-	<priority>0.8</priority>
-	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/efsta-wallet" />
-	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/portafoglio-efsta" />
-	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/efsta-novcanik" />
-	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/monedero-efsta" />
-	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/efsta-wallet" />
 </url>
 <url>
 	<loc>https://www.efsta.eu/en/solutions/cash</loc>
@@ -1274,16 +1243,6 @@
 	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/produits/digitalbilldemo" />
 </url>
 <url>
-	<loc>https://www.efsta.eu/hr/efsta-novcanik</loc>
-	<lastmod>2025-09-12T12:28:26+01:00</lastmod>
-	<priority>0.8</priority>
-	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/efsta-wallet" />
-	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/portafoglio-efsta" />
-	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/efsta-wallet" />
-	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/monedero-efsta" />
-	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/efsta-wallet" />
-</url>
-<url>
 	<loc>https://www.efsta.eu/hr/rjesenja/kasa</loc>
 	<lastmod>2025-09-12T12:28:26+01:00</lastmod>
 	<priority>0.6</priority>
@@ -1532,26 +1491,6 @@
 	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/proizvodi/jednostavan-racun" />
 	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/products/simple-bill" />
 	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/productos/factura-simple" />
-</url>
-<url>
-	<loc>https://www.efsta.eu/es/monedero-efsta</loc>
-	<lastmod>2025-09-12T12:28:27+01:00</lastmod>
-	<priority>0.8</priority>
-	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/efsta-wallet" />
-	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/portafoglio-efsta" />
-	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/efsta-novcanik" />
-	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/efsta-wallet" />
-	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/efsta-wallet" />
-</url>
-<url>
-	<loc>https://www.efsta.eu/fr/efsta-wallet</loc>
-	<lastmod>2025-09-12T12:28:27+01:00</lastmod>
-	<priority>0.8</priority>
-	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/efsta-wallet" />
-	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/portafoglio-efsta" />
-	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/efsta-novcanik" />
-	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/efsta-wallet" />
-	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/monedero-efsta" />
 </url>
 <url>
 	<loc>https://www.efsta.eu/fr/entreprise/equipe</loc>
