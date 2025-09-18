@@ -232,26 +232,6 @@
 	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/efsta-wallet" />
 </url>
 <url>
-	<loc>https://www.efsta.eu/apple-wallet</loc>
-	<lastmod>2025-09-12T12:28:24+01:00</lastmod>
-	<priority>1.0</priority>
-	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/portafoglio-apple" />
-	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/apple-novcanik" />
-	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/apple-wallet" />
-	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/monedero-apple" />
-	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/apple-wallet" />
-</url>
-<url>
-	<loc>https://www.efsta.eu/google-wallet-digitaler-beleg-von-efsta</loc>
-	<lastmod>2025-09-12T12:28:24+01:00</lastmod>
-	<priority>1.0</priority>
-	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/ricevuta-digitale-di-google-wallet-da-efsta" />
-	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/digitalni-racun-za-google-novcanik-od-efsta-e" />
-	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/google-wallet-digital-receipt-from-efsta" />
-	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/google-wallet-recibo-digital-de-efsta" />
-	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/google-wallet-recu-numerique-de-l-efsta" />
-</url>
-<url>
 	<loc>https://www.efsta.eu/losungen/kassensichv</loc>
 	<lastmod>2025-09-12T12:28:24+01:00</lastmod>
 	<priority>0.8</priority>
@@ -372,16 +352,6 @@
 	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/carriere/carriere-chez-efsta" />
 </url>
 <url>
-	<loc>https://www.efsta.eu/kundenservice-supportformular</loc>
-	<lastmod>2025-09-12T12:28:24+01:00</lastmod>
-	<priority>1.0</priority>
-	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/modulo-di-supporto-al-servizio-clienti" />
-	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/obrazac-za-podrsku-korisnicima" />
-	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/customer-service-support-form" />
-	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/formulario-de-atencion-al-cliente" />
-	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/service-client-formulaire-d-assistance" />
-</url>
-<url>
 	<loc>https://www.efsta.eu/kontakt</loc>
 	<lastmod>2025-09-12T12:28:24+01:00</lastmod>
 	<priority>1.0</priority>
@@ -430,16 +400,6 @@
 	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/newsletter/iso-9001-2015-our-quality-management-on-an-international-level" />
 	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/boletin/iso-9001-2015-nuestra-gestion-de-la-calidad-a-nivel-internacional" />
 	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/newsletter/iso-9001-2015-notre-gestion-de-la-qualite-au-niveau-international" />
-</url>
-<url>
-	<loc>https://www.efsta.eu/newsletter-anmeldung</loc>
-	<lastmod>2025-09-12T12:28:24+01:00</lastmod>
-	<priority>1.0</priority>
-	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/registrazione-alla-newsletter" />
-	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/prijava-na-bilten" />
-	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/newsletter-registration" />
-	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/inscripcion-al-boletin" />
-	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/inscription-a-la-newsletter" />
 </url>
 <url>
 	<loc>https://www.efsta.eu/produkte/datensicherheit-digitaler-beleg</loc>
@@ -622,26 +582,7 @@
 	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/monedero-efsta" />
 	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/efsta-wallet" />
 </url>
-<url>
-	<loc>https://www.efsta.eu/it/portafoglio-apple</loc>
-	<lastmod>2025-09-12T12:28:24+01:00</lastmod>
-	<priority>0.8</priority>
-	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/apple-wallet" />
-	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/apple-novcanik" />
-	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/apple-wallet" />
-	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/monedero-apple" />
-	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/apple-wallet" />
-</url>
-<url>
-	<loc>https://www.efsta.eu/it/ricevuta-digitale-di-google-wallet-da-efsta</loc>
-	<lastmod>2025-09-12T12:28:24+01:00</lastmod>
-	<priority>0.8</priority>
-	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/google-wallet-digitaler-beleg-von-efsta" />
-	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/digitalni-racun-za-google-novcanik-od-efsta-e" />
-	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/google-wallet-digital-receipt-from-efsta" />
-	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/google-wallet-recibo-digital-de-efsta" />
-	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/google-wallet-recu-numerique-de-l-efsta" />
-</url>
+
 <url>
 	<loc>https://www.efsta.eu/it/soluzioni/kassensichv</loc>
 	<lastmod>2025-09-12T12:28:24+01:00</lastmod>
@@ -763,16 +704,6 @@
 	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/carriere/carriere-chez-efsta" />
 </url>
 <url>
-	<loc>https://www.efsta.eu/it/modulo-di-supporto-al-servizio-clienti</loc>
-	<lastmod>2025-09-12T12:28:24+01:00</lastmod>
-	<priority>0.8</priority>
-	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/kundenservice-supportformular" />
-	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/obrazac-za-podrsku-korisnicima" />
-	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/customer-service-support-form" />
-	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/formulario-de-atencion-al-cliente" />
-	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/service-client-formulaire-d-assistance" />
-</url>
-<url>
 	<loc>https://www.efsta.eu/it/contatto</loc>
 	<lastmod>2025-09-12T12:28:24+01:00</lastmod>
 	<priority>0.8</priority>
@@ -821,16 +752,6 @@
 	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/newsletter/iso-9001-2015-our-quality-management-on-an-international-level" />
 	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/boletin/iso-9001-2015-nuestra-gestion-de-la-calidad-a-nivel-internacional" />
 	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/newsletter/iso-9001-2015-notre-gestion-de-la-qualite-au-niveau-international" />
-</url>
-<url>
-	<loc>https://www.efsta.eu/it/registrazione-alla-newsletter</loc>
-	<lastmod>2025-09-12T12:28:24+01:00</lastmod>
-	<priority>0.8</priority>
-	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter-anmeldung" />
-	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/prijava-na-bilten" />
-	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/newsletter-registration" />
-	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/inscripcion-al-boletin" />
-	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/inscription-a-la-newsletter" />
 </url>
 <url>
 	<loc>https://www.efsta.eu/it/prodotti/sicurezza-dei-dati-documento-digitale</loc>
@@ -1013,26 +934,6 @@
 	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/efsta-wallet" />
 </url>
 <url>
-	<loc>https://www.efsta.eu/en/apple-wallet</loc>
-	<lastmod>2025-09-12T12:28:26+01:00</lastmod>
-	<priority>0.8</priority>
-	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/apple-wallet" />
-	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/portafoglio-apple" />
-	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/apple-novcanik" />
-	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/monedero-apple" />
-	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/apple-wallet" />
-</url>
-<url>
-	<loc>https://www.efsta.eu/en/google-wallet-digital-receipt-from-efsta</loc>
-	<lastmod>2025-09-12T12:28:26+01:00</lastmod>
-	<priority>0.8</priority>
-	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/google-wallet-digitaler-beleg-von-efsta" />
-	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/ricevuta-digitale-di-google-wallet-da-efsta" />
-	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/digitalni-racun-za-google-novcanik-od-efsta-e" />
-	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/google-wallet-recibo-digital-de-efsta" />
-	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/google-wallet-recu-numerique-de-l-efsta" />
-</url>
-<url>
 	<loc>https://www.efsta.eu/en/solutions/cash</loc>
 	<lastmod>2025-09-12T12:28:26+01:00</lastmod>
 	<priority>0.6</priority>
@@ -1153,16 +1054,6 @@
 	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/carriere/carriere-chez-efsta" />
 </url>
 <url>
-	<loc>https://www.efsta.eu/en/customer-service-support-form</loc>
-	<lastmod>2025-09-12T12:28:26+01:00</lastmod>
-	<priority>0.8</priority>
-	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/kundenservice-supportformular" />
-	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/modulo-di-supporto-al-servizio-clienti" />
-	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/obrazac-za-podrsku-korisnicima" />
-	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/formulario-de-atencion-al-cliente" />
-	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/service-client-formulaire-d-assistance" />
-</url>
-<url>
 	<loc>https://www.efsta.eu/en/contact</loc>
 	<lastmod>2025-09-12T12:28:26+01:00</lastmod>
 	<priority>0.8</priority>
@@ -1211,16 +1102,6 @@
 	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/bilten/iso-9001-2015-nase-upravljanje-kvalitetom-na-me%C4%91unarodnoj-razini" />
 	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/boletin/iso-9001-2015-nuestra-gestion-de-la-calidad-a-nivel-internacional" />
 	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/newsletter/iso-9001-2015-notre-gestion-de-la-qualite-au-niveau-international" />
-</url>
-<url>
-	<loc>https://www.efsta.eu/en/newsletter-registration</loc>
-	<lastmod>2025-09-12T12:28:26+01:00</lastmod>
-	<priority>0.8</priority>
-	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter-anmeldung" />
-	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/registrazione-alla-newsletter" />
-	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/prijava-na-bilten" />
-	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/inscripcion-al-boletin" />
-	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/inscription-a-la-newsletter" />
 </url>
 <url>
 	<loc>https://www.efsta.eu/en/products/data-security-digital-document</loc>
@@ -1403,26 +1284,6 @@
 	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/efsta-wallet" />
 </url>
 <url>
-	<loc>https://www.efsta.eu/hr/apple-novcanik</loc>
-	<lastmod>2025-09-12T12:28:26+01:00</lastmod>
-	<priority>0.8</priority>
-	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/apple-wallet" />
-	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/portafoglio-apple" />
-	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/apple-wallet" />
-	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/monedero-apple" />
-	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/apple-wallet" />
-</url>
-<url>
-	<loc>https://www.efsta.eu/hr/digitalni-racun-za-google-novcanik-od-efsta-e</loc>
-	<lastmod>2025-09-12T12:28:26+01:00</lastmod>
-	<priority>0.8</priority>
-	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/google-wallet-digitaler-beleg-von-efsta" />
-	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/ricevuta-digitale-di-google-wallet-da-efsta" />
-	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/google-wallet-digital-receipt-from-efsta" />
-	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/google-wallet-recibo-digital-de-efsta" />
-	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/google-wallet-recu-numerique-de-l-efsta" />
-</url>
-<url>
 	<loc>https://www.efsta.eu/hr/rjesenja/kasa</loc>
 	<lastmod>2025-09-12T12:28:26+01:00</lastmod>
 	<priority>0.6</priority>
@@ -1533,16 +1394,6 @@
 	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/carriere/carriere-chez-efsta" />
 </url>
 <url>
-	<loc>https://www.efsta.eu/hr/obrazac-za-podrsku-korisnicima</loc>
-	<lastmod>2025-09-12T12:28:26+01:00</lastmod>
-	<priority>0.8</priority>
-	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/kundenservice-supportformular" />
-	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/modulo-di-supporto-al-servizio-clienti" />
-	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/customer-service-support-form" />
-	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/formulario-de-atencion-al-cliente" />
-	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/service-client-formulaire-d-assistance" />
-</url>
-<url>
 	<loc>https://www.efsta.eu/hr/kontakt</loc>
 	<lastmod>2025-09-12T12:28:26+01:00</lastmod>
 	<priority>0.8</priority>
@@ -1581,16 +1432,6 @@
 	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/newsletter/spain-efsta-is-compatible-with-simphony-for-ticketbai-and-verifactu-via-the-oracle-api" />
 	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/boletin/espana-efsta-es-compatible-con-simphony-para-ticketbai-y-verifactu-a-traves-de-la-api-de-oracle" />
 	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/newsletter/espagne-efsta-est-compatible-avec-simphony-pour-ticketbai-et-verifactu-via-l-api-oracle" />
-</url>
-<url>
-	<loc>https://www.efsta.eu/hr/prijava-na-bilten</loc>
-	<lastmod>2025-09-12T12:28:26+01:00</lastmod>
-	<priority>0.8</priority>
-	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter-anmeldung" />
-	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/registrazione-alla-newsletter" />
-	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/newsletter-registration" />
-	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/inscripcion-al-boletin" />
-	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/inscription-a-la-newsletter" />
 </url>
 <url>
 	<loc>https://www.efsta.eu/hr/proizvodi/digitalna-potvrda-o-sigurnosti-podataka</loc>
@@ -1833,26 +1674,6 @@
 	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/productos/digitalbilldemo" />
 </url>
 <url>
-	<loc>https://www.efsta.eu/fr/apple-wallet</loc>
-	<lastmod>2025-09-12T12:28:27+01:00</lastmod>
-	<priority>0.8</priority>
-	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/apple-wallet" />
-	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/portafoglio-apple" />
-	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/apple-novcanik" />
-	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/apple-wallet" />
-	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/monedero-apple" />
-</url>
-<url>
-	<loc>https://www.efsta.eu/fr/google-wallet-recu-numerique-de-l-efsta</loc>
-	<lastmod>2025-09-12T12:28:27+01:00</lastmod>
-	<priority>0.8</priority>
-	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/google-wallet-digitaler-beleg-von-efsta" />
-	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/ricevuta-digitale-di-google-wallet-da-efsta" />
-	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/digitalni-racun-za-google-novcanik-od-efsta-e" />
-	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/google-wallet-digital-receipt-from-efsta" />
-	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/google-wallet-recibo-digital-de-efsta" />
-</url>
-<url>
 	<loc>https://www.efsta.eu/fr/solutions/kassensichv</loc>
 	<lastmod>2025-09-12T12:28:27+01:00</lastmod>
 	<priority>0.6</priority>
@@ -1973,16 +1794,6 @@
 	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/carrera/carrera-profesional-en-efsta" />
 </url>
 <url>
-	<loc>https://www.efsta.eu/fr/service-client-formulaire-d-assistance</loc>
-	<lastmod>2025-09-12T12:28:27+01:00</lastmod>
-	<priority>0.8</priority>
-	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/kundenservice-supportformular" />
-	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/modulo-di-supporto-al-servizio-clienti" />
-	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/obrazac-za-podrsku-korisnicima" />
-	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/customer-service-support-form" />
-	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/formulario-de-atencion-al-cliente" />
-</url>
-<url>
 	<loc>https://www.efsta.eu/fr/contact</loc>
 	<lastmod>2025-09-12T12:28:27+01:00</lastmod>
 	<priority>0.8</priority>
@@ -2031,16 +1842,6 @@
 	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/bilten/iso-9001-2015-nase-upravljanje-kvalitetom-na-me%C4%91unarodnoj-razini" />
 	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/newsletter/iso-9001-2015-our-quality-management-on-an-international-level" />
 	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/boletin/iso-9001-2015-nuestra-gestion-de-la-calidad-a-nivel-internacional" />
-</url>
-<url>
-	<loc>https://www.efsta.eu/fr/inscription-a-la-newsletter</loc>
-	<lastmod>2025-09-12T12:28:27+01:00</lastmod>
-	<priority>0.8</priority>
-	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter-anmeldung" />
-	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/registrazione-alla-newsletter" />
-	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/prijava-na-bilten" />
-	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/newsletter-registration" />
-	<xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/inscripcion-al-boletin" />
 </url>
 <url>
 	<loc>https://www.efsta.eu/fr/produits/securite-des-donnees-justificatif-numerique</loc>
@@ -2183,26 +1984,6 @@
 	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/produits/digitalbilldemo" />
 </url>
 <url>
-	<loc>https://www.efsta.eu/es/monedero-apple</loc>
-	<lastmod>2025-09-12T12:28:28+01:00</lastmod>
-	<priority>0.8</priority>
-	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/apple-wallet" />
-	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/portafoglio-apple" />
-	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/apple-novcanik" />
-	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/apple-wallet" />
-	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/apple-wallet" />
-</url>
-<url>
-	<loc>https://www.efsta.eu/es/google-wallet-recibo-digital-de-efsta</loc>
-	<lastmod>2025-09-12T12:28:28+01:00</lastmod>
-	<priority>0.8</priority>
-	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/google-wallet-digitaler-beleg-von-efsta" />
-	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/ricevuta-digitale-di-google-wallet-da-efsta" />
-	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/digitalni-racun-za-google-novcanik-od-efsta-e" />
-	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/google-wallet-digital-receipt-from-efsta" />
-	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/google-wallet-recu-numerique-de-l-efsta" />
-</url>
-<url>
 	<loc>https://www.efsta.eu/es/soluciones/notificacion-obligatoria-de-los-sistemas-de-caja-registradora</loc>
 	<lastmod>2025-09-12T12:28:28+01:00</lastmod>
 	<priority>0.6</priority>
@@ -2312,16 +2093,7 @@
 	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/career/career-at-efsta" />
 	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/carriere/carriere-chez-efsta" />
 </url>
-<url>
-	<loc>https://www.efsta.eu/es/formulario-de-atencion-al-cliente</loc>
-	<lastmod>2025-09-12T12:28:28+01:00</lastmod>
-	<priority>0.8</priority>
-	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/kundenservice-supportformular" />
-	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/modulo-di-supporto-al-servizio-clienti" />
-	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/obrazac-za-podrsku-korisnicima" />
-	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/customer-service-support-form" />
-	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/service-client-formulaire-d-assistance" />
-</url>
+
 <url>
 	<loc>https://www.efsta.eu/es/pongase-en-contacto-con</loc>
 	<lastmod>2025-09-12T12:28:28+01:00</lastmod>
@@ -2371,16 +2143,6 @@
 	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/bilten/iso-9001-2015-nase-upravljanje-kvalitetom-na-me%C4%91unarodnoj-razini" />
 	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/newsletter/iso-9001-2015-our-quality-management-on-an-international-level" />
 	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/newsletter/iso-9001-2015-notre-gestion-de-la-qualite-au-niveau-international" />
-</url>
-<url>
-	<loc>https://www.efsta.eu/es/inscripcion-al-boletin</loc>
-	<lastmod>2025-09-12T12:28:28+01:00</lastmod>
-	<priority>0.8</priority>
-	<xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter-anmeldung" />
-	<xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/registrazione-alla-newsletter" />
-	<xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/prijava-na-bilten" />
-	<xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/newsletter-registration" />
-	<xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/inscription-a-la-newsletter" />
 </url>
 <url>
 	<loc>https://www.efsta.eu/es/productos/seguridad-de-los-datos-documento-digital</loc>
