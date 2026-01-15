@@ -495,6 +495,7 @@
     <loc>https://www.efsta.eu/unternehmen/zertifizierungen</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/unternehmen/zertifizierungen" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/zertifizierungen" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/certificazioni" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/certifikati" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/certifications" />
@@ -507,6 +508,7 @@
     <loc>https://www.efsta.eu/fiskalisierung</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung" />  
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/fiscalizzazione" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/fiskalizacija" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/fiscalization" />
@@ -519,6 +521,7 @@
     <loc>https://www.efsta.eu/fiskalisierung/deutschland</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/deutschland" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/deutschland" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/fiscalizzazione/germania" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/fiskalizacija/njemacka" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/fiscalization/germany" />
@@ -531,6 +534,7 @@
     <loc>https://www.efsta.eu/fiskalisierung/oesterreich</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/oesterreich" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/oesterreich" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/fiscalizzazione/austria" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/fiskalizacija/austrija" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/fiscalization/austria" />
@@ -543,6 +547,7 @@
     <loc>https://www.efsta.eu/fiskalisierung/frankreich</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/frankreich" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/frankreich" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/fiscalizzazione/francia" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/fiskalizacija/francuska" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/fiscalization/france" />
@@ -555,6 +560,7 @@
     <loc>https://www.efsta.eu/fiskalisierung/spanien</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/spanien" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/spanien" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/fiscalizzazione/spagna" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/fiskalizacija/spanjolska" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/fiscalization/spain" />
@@ -567,6 +573,7 @@
     <loc>https://www.efsta.eu/fiskalisierung/italien</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/italien" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/italien" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/fiscalizzazione/italia" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/fiskalizacija/italija" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/fiscalization/italy" />
@@ -578,7 +585,8 @@
   <url>
     <loc>https://www.efsta.eu/landerubersicht</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/hr/pregled-zemlje" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/landerubersicht" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/landerubersicht" /> 
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/panoramica-del-paese" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/pregled-zemlje" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/country-overview" />
@@ -591,6 +599,7 @@
     <loc>https://www.efsta.eu/produkte/digitaler-beleg</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/hr/proizvodi/digitaler-beleg" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/produkte/digitaler-beleg" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/prodotti/documento-digitale" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/proizvodi/digitaler-beleg" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/products/digital-document" />
@@ -603,6 +612,7 @@
     <loc>https://www.efsta.eu/produkte/simple-bill</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/produkte/simple-bill" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/produkte/simple-bill" />  
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/prodotti/semplice-disegno-di-legge" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/proizvodi/jednostavan-racun" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/products/simple-bill" />
@@ -615,6 +625,7 @@
     <loc>https://www.efsta.eu/produkte/smart-bill</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/es/productos/factura-inteligente" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/produkte/smart-bill" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/prodotti/bolletta-intelligente" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/proizvodi/pametni-racun" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/products/smart-bill" />
@@ -629,6 +640,7 @@
     <loc>https://www.efsta.eu/losungen/kassensichv</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/kassensichv" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/kassensichv" />  
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/soluzioni/kassensichv" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/rjesenja/kasa" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/solutions/cash" />
@@ -640,7 +652,8 @@
   <url>
     <loc>https://www.efsta.eu/losungen/meldepflicht-de-kassensysteme</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/hr/rjesenja/obveza-izvjestavanja-za-sustave-blagajne" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/meldepflicht-de-kassensysteme" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/meldepflicht-de-kassensysteme" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/soluzioni/segnalazione-obbligatoria-dei-sistemi-di-registratori-di-cassa" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/rjesenja/obveza-izvjestavanja-za-sustave-blagajne" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/solutions/mandatory-reporting-of-cash-register-systems" />
@@ -653,6 +666,7 @@
     <loc>https://www.efsta.eu/losungen/tse-deutschland</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/tse-deutschland" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/tse-deutschland" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/soluzioni/tse-germania" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/rjesenja/tse-njemacka" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/solutions/tse-germany" />
@@ -664,7 +678,8 @@
   <url>
     <loc>https://www.efsta.eu/losungen/rksv-uberblick</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fr/solutions/rksv-vue-d-ensemble" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/rksv-uberblick" />
+     <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/rksv-uberblick" />  
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/soluzioni/panoramica-di-rksv" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/rjesenja/pregled-rksv-a" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/solutions/rksv-overview" />
@@ -676,7 +691,8 @@
   <url>
     <loc>https://www.efsta.eu/losungen/verifactu-vorschriften-und-anderungen</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fr/solutions/verifactu-regles-et-modifications" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/verifactu-vorschriften-und-anderungen" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/verifactu-vorschriften-und-anderungen" />  
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/soluzioni/regolamenti-e-modifiche-di-verifactu" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/rjesenja/verifactu-propisi-i-promjene" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/solutions/verifactu-regulations-and-changes" />
@@ -688,7 +704,8 @@
   <url>
     <loc>https://www.efsta.eu/losungen/ticketbai-hacienda-e-rechnung-im-baskenland</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fr/solutions/ticketbai-hacienda-e-rechnung-im-baskenland" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/ticketbai-hacienda-e-rechnung-im-baskenland" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/ticketbai-hacienda-e-rechnung-im-baskenland" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/soluzioni/ticketbai-hacienda-e-rechnung-im-baskenland" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/rjesenja/ticketbai-hacienda-e-rechnung-im-baskenland" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/solutions/ticketbai-hacienda" />
@@ -700,7 +717,8 @@
   <url>
     <loc>https://www.efsta.eu/losungen/isca-konformitat-pos-software</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/es/soluciones/software-pos-de-conformidad-isca" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/isca-konformitat-pos-software" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/isca-konformitat-pos-software" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/soluzioni/software-pos-di-conformita-isca" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/rjesenja/isca-softver-za-pos-uskla%C4%91enost" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/solutions/isca-conformity-pos-software" />
@@ -712,7 +730,8 @@
   <url>
     <loc>https://www.efsta.eu/losungen/zertifizierung-frankreich</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/es/soluciones/certificacion-francia" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/zertifizierung-frankreich" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/zertifizierung-frankreich" />  
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/soluzioni/certificazione-francia" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/rjesenja/certifikacija-francuska" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/solutions/certification-france" />
@@ -724,7 +743,8 @@
   <url>
     <loc>https://www.efsta.eu/losungen/italy-cloud-solution-losung-fur-die-fiskalisierung</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/es/soluciones/italia-solucion-en-la-nube-para-la-fiscalizacion" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/italy-cloud-solution-losung-fur-die-fiskalisierung" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/italy-cloud-solution-losung-fur-die-fiskalisierung" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/soluzioni/italia-soluzione-cloud-per-la-fiscalizzazione" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/rjesenja/italijansko-cloud-rjesenje-za-fiskalizaciju" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/solutions/italy-cloud-solution-solution-for-fiscalization" />
@@ -737,6 +757,7 @@
     <loc>https://www.efsta.eu/losungen/digitaler-kassenbeleg</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/losungen/digitaler-kassenbeleg" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/losungen/digitaler-kassenbeleg" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/soluzioni/scontrino-di-cassa-digitale" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/rjesenja/digitalni-racun" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/solutions/digital-till-receipt" />
@@ -748,7 +769,8 @@
   <url>
     <loc>https://www.efsta.eu/produkte/e-invoicing</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/es/productos/e-facturacion" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/produkte/e-invoicing" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/produkte/e-invoicing" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/prodotti/fatturazione-elettronica" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/proizvodi/e-fakturiranje" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/products/e-invoicing" />
@@ -761,6 +783,7 @@
     <loc>https://www.efsta.eu/karriere/karriere-bei-efsta</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/karriere/karriere-bei-efsta" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/karriere/karriere-bei-efsta" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/carriera/carriera-all-efsta" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/karijera/karijera-u-efsti" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/career/career-at-efsta" />
@@ -772,7 +795,8 @@
   <url>
     <loc>https://www.efsta.eu/kontakt</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/kontak" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/kontakt" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/kontakt" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/contatto" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/kontakt" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/contact" />
@@ -784,7 +808,8 @@
   <url>
     <loc>https://www.efsta.eu/fiskalisierung/portugal</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/hr/fiskalizacija/portugal" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/portugal" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/portugal" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/fiscalizzazione/portogallo" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/fiskalizacija/portugal" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/fiscalization/portugal" />
@@ -796,7 +821,8 @@
   <url>
     <loc>https://www.efsta.eu/newsletter/italien-2026-eine-neue-ara-der-softpos-integration-durch-fiskalisierung</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/es/boletin/italia-2026-una-nueva-era-de-integracion-de-los-softpos-a-traves-de-la-fiscalizacion" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/italien-2026-eine-neue-ara-der-softpos-integration-durch-fiskalisierung" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/italien-2026-eine-neue-ara-der-softpos-integration-durch-fiskalisierung" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/newsletter/italia-2026-una-nuova-era-di-integrazione-softpos-attraverso-la-fiscalizzazione" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/bilten/italija-2026-nova-era-integracije-softposa-kroz-fiskalizaciju" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/newsletter/italy-2026-a-new-era-of-softpos-integration-through-fiscalization" />
@@ -808,7 +834,8 @@
   <url>
     <loc>https://www.efsta.eu/newsletter/spanien-efsta-ist-uber-die-oracle-api-mit-simphony-fur-ticketbai-und-verifactu-kompatibel</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fr/newsletter/espagne-efsta-est-compatible-avec-simphony-pour-ticketbai-et-verifactu-via-l-api-oracle" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/spanien-efsta-ist-uber-die-oracle-api-mit-simphony-fur-ticketbai-und-verifactu-kompatibel" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/spanien-efsta-ist-uber-die-oracle-api-mit-simphony-fur-ticketbai-und-verifactu-kompatibel" 
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/newsletter/spagna-efsta-e-compatibile-con-simphony-for-ticketbai-e-verifactu-tramite-l-api-oracle" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/bilten/spanjolska-efsta-kompatibilna-je-sa-simphony-za-ticketbai-i-verifactu-putem-oracle-api-ja-" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/newsletter/spain-efsta-is-compatible-with-simphony-for-ticketbai-and-verifactu-via-the-oracle-api" />
@@ -821,6 +848,7 @@
     <loc>https://www.efsta.eu/newsletter/iso-9001-2015---unser-qualitatsmanagement-auf-internationalem-niveau</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/newsletter/iso-9001-2015---unser-qualitatsmanagement-auf-internationalem-niveau" />
+     <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/newsletter/iso-9001-2015---unser-qualitatsmanagement-auf-internationalem-niveau" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/newsletter/iso-9001-2015-la-nostra-gestione-della-qualita-a-livello-internazionale" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/bilten/iso-9001-2015-nase-upravljanje-kvalitetom-na-me%C4%91unarodnoj-razini" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/newsletter/iso-9001-2015-our-quality-management-on-an-international-level" />
@@ -832,7 +860,8 @@
   <url>
     <loc>https://www.efsta.eu/produkte/datensicherheit-digitaler-beleg</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/it/prodotti/sicurezza-dei-dati-documento-digitale" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/produkte/datensicherheit-digitaler-beleg" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/produkte/datensicherheit-digitaler-beleg" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/prodotti/sicurezza-dei-dati-documento-digitale" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/proizvodi/digitalna-potvrda-o-sigurnosti-podataka" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/products/data-security-digital-document" />
@@ -845,6 +874,7 @@
     <loc>https://www.efsta.eu/it/azienda/il-team</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/it/azienda/il-team" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/it/azienda/il-team" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/il-team" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/tim" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/the-team" />
@@ -866,9 +896,10 @@
   </url>
   
   <url>
-    <loc>https://www.efsta.eu/it/azienda/principi</loc>
+    <loc>https://www.efsta.eu/unternehmen/referenzen</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fr/entreprise/principes" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/unternehmen/referenzen" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/referenzen" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/principi" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/nacela" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/principles" />
@@ -878,9 +909,10 @@
   </url>
   
   <url>
-    <loc>https://www.efsta.eu/it/azienda/notizie</loc>
+    <loc>https://www.efsta.eu/unternehmen/news</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/es/empresa/noticias" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/unternehmen/news" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/news" />  
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/notizie" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/vijesti" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/news" />
@@ -892,7 +924,8 @@
   <url>
     <loc>https://www.efsta.eu/it/azienda/certificazioni</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/it/azienda/certificazioni" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/unternehmen/zertifizierungen" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/zertifizierungen" />  
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/certificazioni" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/certifikati" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/certifications" />
@@ -904,7 +937,8 @@
   <url>
     <loc>https://www.efsta.eu/it/fiscalizzazione</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/es/fiscalizacion" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/fiscalizzazione" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/fiskalizacija" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/fiscalization" />
@@ -916,7 +950,8 @@
   <url>
     <loc>https://www.efsta.eu/it/fiscalizzazione/germania</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fr/fiscalisation/allemagne" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/deutschland" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/deutschland" />  
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/fiscalizzazione/germania" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/fiskalizacija/njemacka" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/fiscalization/germany" />
@@ -928,7 +963,8 @@
   <url>
     <loc>https://www.efsta.eu/it/fiscalizzazione/austria</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/es/fiscalizacion/austria" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/oesterreich" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/oesterreich" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/fiscalizzazione/austria" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/fiskalizacija/austrija" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/fiscalization/austria" />
@@ -940,7 +976,8 @@
   <url>
     <loc>https://www.efsta.eu/it/fiscalizzazione/francia</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fr/fiscalisation/france" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/frankreich" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/frankreich" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/fiscalizzazione/francia" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/fiskalizacija/francuska" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/fiscalization/france" />
@@ -952,7 +989,8 @@
   <url>
     <loc>https://www.efsta.eu/it/fiscalizzazione/spagna</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/hr/fiskalizacija/spanjolska" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/spanien" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/spanien" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/fiscalizzazione/spagna" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/fiskalizacija/spanjolska" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/fiscalization/spain" />
@@ -965,6 +1003,7 @@
     <loc>https://www.efsta.eu/it/fiscalizzazione/italia</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/italien" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/fiskalisierung/italien" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/fiscalizzazione/italia" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/fiskalizacija/italija" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/fiscalization/italy" />
@@ -976,7 +1015,8 @@
   <url>
     <loc>https://www.efsta.eu/it/panoramica-del-paese</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/hr/pregled-zemlje" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/landerubersicht" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/landerubersicht" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/panoramica-del-paese" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/pregled-zemlje" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/country-overview" />
@@ -988,7 +1028,8 @@
   <url>
     <loc>https://www.efsta.eu/it/prodotti/documento-digitale</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/hr/proizvodi/digitaler-beleg" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/produkte/digitaler-beleg" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/produkte/digitaler-beleg" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/prodotti/documento-digitale" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/proizvodi/digitaler-beleg" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/products/digital-document" />
