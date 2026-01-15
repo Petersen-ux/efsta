@@ -446,7 +446,7 @@
   <url>
     <loc>https://www.efsta.eu/unternehmen/das-team</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/it/azienda/il-team" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/unternehmen/das-team" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/il-team" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/tim" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/the-team" />
@@ -458,7 +458,7 @@
   <url>
     <loc>https://www.efsta.eu/unternehmen/referenzen</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/es/empresa/referencias" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/unternehmen/referenzen" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/riferimenti" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/reference" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/references" />
@@ -470,7 +470,7 @@
   <url>
     <loc>https://www.efsta.eu/unternehmen/grundsatze</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fr/entreprise/principes" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/unternehmen/grundsatze" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/principi" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/nacela" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/principles" />
@@ -482,7 +482,7 @@
   <url>
     <loc>https://www.efsta.eu/unternehmen/news</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/es/empresa/noticias" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/unternehmen/news" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/notizie" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/vijesti" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/news" />
@@ -494,7 +494,7 @@
   <url>
     <loc>https://www.efsta.eu/unternehmen/zertifizierungen</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/it/azienda/certificazioni" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/unternehmen/zertifizierungen" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/certificazioni" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/certifikati" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/certifications" />
@@ -506,7 +506,7 @@
   <url>
     <loc>https://www.efsta.eu/fiskalisierung</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/es/fiscalizacion" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/fiscalizzazione" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/fiskalizacija" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/fiscalization" />
@@ -518,7 +518,7 @@
   <url>
     <loc>https://www.efsta.eu/fiskalisierung/deutschland</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fr/fiscalisation/allemagne" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/deutschland" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/fiscalizzazione/germania" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/fiskalizacija/njemacka" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/fiscalization/germany" />
@@ -530,7 +530,7 @@
   <url>
     <loc>https://www.efsta.eu/fiskalisierung/oesterreich</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/es/fiscalizacion/austria" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/oesterreich" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/fiscalizzazione/austria" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/fiskalizacija/austrija" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/fiscalization/austria" />
@@ -542,7 +542,7 @@
   <url>
     <loc>https://www.efsta.eu/fiskalisierung/frankreich</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fr/fiscalisation/france" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/frankreich" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/fiscalizzazione/francia" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/fiskalizacija/francuska" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/fiscalization/france" />
@@ -554,7 +554,7 @@
   <url>
     <loc>https://www.efsta.eu/fiskalisierung/spanien</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/hr/fiskalizacija/spanjolska" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/spanien" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/fiscalizzazione/spagna" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/fiskalizacija/spanjolska" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/fiscalization/spain" />
@@ -566,7 +566,7 @@
   <url>
     <loc>https://www.efsta.eu/fiskalisierung/italien</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/en/fiscalization/italy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/fiskalisierung/italien" />
     <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/fiscalizzazione/italia" />
     <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/fiskalizacija/italija" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/fiscalization/italy" />
@@ -3223,18 +3223,7 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://www.efsta.eu/job/it-consultant-m-w-d</loc>
-    <lastmod>2025-09-12T12:28:30+01:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/hr/posao/it-konzultant-m-z-d-" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/lavoro/consulente-m-w-d" />
-    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/posao/it-konzultant-m-z-d-" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/job/it-consultant-m-w-d" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empleo/it-consultor-m-w-d" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/job/consultant-en-informatique-m-w-d" />
-    <priority>0.8</priority>
-  </url>
-  
+
   <url>
     <loc>https://www.efsta.eu/headquartersteyr-new-office</loc>
     <lastmod>2025-09-12T12:28:30+01:00</lastmod>
@@ -3355,17 +3344,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://www.efsta.eu/it/lavoro/consulente-m-w-d</loc>
-    <lastmod>2025-09-12T12:28:35+01:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/hr/posao/it-konzultant-m-z-d-" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/lavoro/consulente-m-w-d" />
-    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/posao/it-konzultant-m-z-d-" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/job/it-consultant-m-w-d" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empleo/it-consultor-m-w-d" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/job/consultant-en-informatique-m-w-d" />
-    <priority>0.6</priority>
-  </url>
   
   <url>
     <loc>https://www.efsta.eu/it/sede-del-nuovo-ufficio</loc>
@@ -3595,17 +3573,7 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://www.efsta.eu/en/job/it-consultant-m-w-d</loc>
-    <lastmod>2025-09-12T12:28:40+01:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/hr/posao/it-konzultant-m-z-d-" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/lavoro/consulente-m-w-d" />
-    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/posao/it-konzultant-m-z-d-" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/job/it-consultant-m-w-d" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empleo/it-consultor-m-w-d" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/job/consultant-en-informatique-m-w-d" />
-    <priority>0.6</priority>
-  </url>
+l>
   
   <url>
     <loc>https://www.efsta.eu/hr/fiskalizacija/slovenija</loc>
@@ -4157,18 +4125,6 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/noticias?a31e9f13_page=2" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/actualites?a31e9f13_page=2" />
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.efsta.eu/es/empleo/it-consultor-m-w-d</loc>
-    <lastmod>2025-09-12T12:28:58+01:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/hr/posao/it-konzultant-m-z-d-" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/lavoro/consulente-m-w-d" />
-    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/posao/it-konzultant-m-z-d-" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/job/it-consultant-m-w-d" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empleo/it-consultor-m-w-d" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/job/consultant-en-informatique-m-w-d" />
-    <priority>0.6</priority>
   </url>
   
   <url>
