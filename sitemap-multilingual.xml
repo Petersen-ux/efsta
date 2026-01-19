@@ -477,7 +477,63 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/references" />
     <priority>0.8</priority>
   </url>
-  
+    <url>
+    <loc>https://www.efsta.eu/hr/tvrtka/reference</loc>
+    <lastmod>2025-09-28T11:28:24Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/unternehmen/referenzen" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/referenzen" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/principi" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/nacela" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/principles" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/principios" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/principes" />
+    <priority>0.6</priority>
+        
+  </url>
+      <url>
+      <loc>https://www.efsta.eu/it/azienda/principi</loc>
+    <lastmod>2025-09-28T11:28:24Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/unternehmen/referenzen" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/riferimenti" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/reference" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/references" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/referencias" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/references" />
+    <priority>0.8</priority>
+  </url>
+      <url>
+        <loc>https://www.efsta.eu/en/company/references</loc>
+    <lastmod>2025-09-28T11:28:24Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/unternehmen/referenzen" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/riferimenti" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/reference" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/references" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/referencias" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/references" />
+    <priority>0.8</priority>
+  </url>
+    <url>
+        <loc>www.efsta.eu/es/empresa/referencia</loc>
+    <lastmod>2025-09-28T11:28:24Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/unternehmen/referenzen" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/riferimenti" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/reference" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/references" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/referencias" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/references" />
+    <priority>0.8</priority>
+  </url>
+       <url>
+        <loc>https://www.efsta.eu/fr/entreprise/references</loc>
+    <lastmod>2025-09-28T11:28:24Z</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/unternehmen/referenzen" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/riferimenti" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/reference" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/references" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/referencias" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/references" />
+    <priority>0.8</priority>
+  </url>
   <url>
     <loc>https://www.efsta.eu/unternehmen/grundsatze</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
@@ -905,19 +961,7 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://www.efsta.eu/unternehmen/referenzen</loc>
-    <lastmod>2025-09-28T11:28:24Z</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.efsta.eu/unternehmen/referenzen" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.efsta.eu/unternehmen/referenzen" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://www.efsta.eu/it/azienda/principi" />
-    <xhtml:link rel="alternate" hreflang="hr" href="https://www.efsta.eu/hr/tvrtka/nacela" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.efsta.eu/en/company/principles" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.efsta.eu/es/empresa/principios" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://www.efsta.eu/fr/entreprise/principes" />
-    <priority>0.6</priority>
-  </url>
-  
+
   <url>
     <loc>https://www.efsta.eu/unternehmen/news</loc>
     <lastmod>2025-09-28T11:28:24Z</lastmod>
